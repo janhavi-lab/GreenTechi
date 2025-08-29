@@ -1,0 +1,2521 @@
+RoomNo,Month,Day,Hour,Consumption_kWh,AverageConsumption_kWh,Wastage_kWh,Wastage_Label
+1,8,1,0,0.882,0.342,0.54,Medium Wastage Room
+1,8,1,1,0.137,0.423,0,Green Room
+1,8,1,2,0.106,0.244,0,Green Room
+1,8,1,3,0.11,0.373,0,Green Room
+1,8,1,4,0.09,0.585,0,Green Room
+1,8,1,5,0.216,0.219,0,Green Room
+1,8,1,6,0.249,0.294,0,Green Room
+1,8,1,7,0.156,0.545,0,Green Room
+1,8,1,8,1.413,0.288,1.125,High Wastage Room
+1,8,1,9,1.441,0.561,0.88,High Wastage Room
+1,8,1,10,0.075,0.444,0,Green Room
+1,8,1,11,1.372,0.254,1.119,High Wastage Room
+1,8,1,12,0.576,0.253,0.323,Medium Wastage Room
+1,8,1,13,0.115,0.481,0,Green Room
+1,8,1,14,0.808,0.306,0.502,Medium Wastage Room
+1,8,1,15,0.055,0.201,0,Green Room
+1,8,1,16,0.129,0.274,0,Green Room
+1,8,1,17,0.196,0.552,0,Green Room
+1,8,1,18,0.695,0.48,0.215,Green Room
+1,8,1,19,1.049,0.391,0.659,Medium Wastage Room
+1,8,1,20,1.299,0.538,0.761,Medium Wastage Room
+1,8,1,21,0.794,0.529,0.266,Green Room
+1,8,1,22,0.383,0.39,0,Green Room
+1,8,1,23,0.168,0.201,0,Green Room
+1,8,2,0,0.203,0.348,0,Green Room
+1,8,2,1,0.118,0.288,0,Green Room
+1,8,2,2,1.268,0.412,0.856,High Wastage Room
+1,8,2,3,0.938,0.498,0.439,Medium Wastage Room
+1,8,2,4,1.431,0.431,1.001,High Wastage Room
+1,8,2,5,0.133,0.373,0,Green Room
+1,8,2,6,0.121,0.488,0,Green Room
+1,8,2,7,0.178,0.3,0,Green Room
+1,8,2,8,0.225,0.387,0,Green Room
+1,8,2,9,0.147,0.209,0,Green Room
+1,8,2,10,0.093,0.372,0,Green Room
+1,8,2,11,0.108,0.261,0,Green Room
+1,8,2,12,0.092,0.513,0,Green Room
+1,8,2,13,1.537,0.413,1.124,High Wastage Room
+1,8,2,14,0.118,0.349,0,Green Room
+1,8,2,15,0.087,0.391,0,Green Room
+1,8,2,16,0.213,0.358,0,Green Room
+1,8,2,17,1.463,0.554,0.909,High Wastage Room
+1,8,2,18,0.137,0.286,0,Green Room
+1,8,2,19,0.862,0.502,0.36,Medium Wastage Room
+1,8,2,20,0.761,0.541,0.221,Green Room
+1,8,2,21,1.22,0.295,0.924,High Wastage Room
+1,8,2,22,0.784,0.583,0.201,Green Room
+1,8,2,23,0.096,0.483,0,Green Room
+1,8,3,0,1.206,0.319,0.886,High Wastage Room
+1,8,3,1,0.167,0.487,0,Green Room
+1,8,3,2,0.833,0.285,0.548,Medium Wastage Room
+1,8,3,3,1.542,0.483,1.059,High Wastage Room
+1,8,3,4,0.878,0.326,0.552,Medium Wastage Room
+1,8,3,5,0.112,0.416,0,Green Room
+1,8,3,6,0.459,0.244,0.215,Green Room
+1,8,3,7,0.86,0.488,0.373,Medium Wastage Room
+1,8,3,8,0.19,0.535,0,Green Room
+1,8,3,9,0.573,0.206,0.367,Medium Wastage Room
+1,8,3,10,1.029,0.398,0.631,Medium Wastage Room
+1,8,3,11,0.883,0.358,0.524,Medium Wastage Room
+1,8,3,12,0.067,0.384,0,Green Room
+1,8,3,13,0.071,0.273,0,Green Room
+1,8,3,14,0.176,0.471,0,Green Room
+1,8,3,15,0.099,0.578,0,Green Room
+1,8,3,16,1.61,0.56,1.05,High Wastage Room
+1,8,3,17,0.052,0.588,0,Green Room
+1,8,3,18,0.08,0.389,0,Green Room
+1,8,3,19,0.954,0.316,0.638,Medium Wastage Room
+1,8,3,20,0.229,0.493,0,Green Room
+1,8,3,21,0.225,0.46,0,Green Room
+1,8,3,22,0.093,0.52,0,Green Room
+1,8,3,23,0.193,0.347,0,Green Room
+1,8,4,0,1.539,0.236,1.302,High Wastage Room
+1,8,4,1,0.724,0.369,0.355,Medium Wastage Room
+1,8,4,2,1.225,0.374,0.851,High Wastage Room
+1,8,4,3,0.312,0.217,0.095,Green Room
+1,8,4,4,1.098,0.357,0.742,Medium Wastage Room
+1,8,4,5,0.221,0.245,0,Green Room
+1,8,4,6,0.214,0.285,0,Green Room
+1,8,4,7,0.244,0.528,0,Green Room
+1,8,4,8,0.117,0.402,0,Green Room
+1,8,4,9,0.461,0.519,0,Green Room
+1,8,4,10,0.504,0.57,0,Green Room
+1,8,4,11,1.429,0.257,1.171,High Wastage Room
+1,8,4,12,0.174,0.321,0,Green Room
+1,8,4,13,0.073,0.49,0,Green Room
+1,8,4,14,0.205,0.375,0,Green Room
+1,8,4,15,0.901,0.382,0.52,Medium Wastage Room
+1,8,4,16,0.099,0.238,0,Green Room
+1,8,4,17,0.102,0.574,0,Green Room
+1,8,4,18,0.155,0.347,0,Green Room
+1,8,4,19,1.313,0.216,1.098,High Wastage Room
+1,8,4,20,0.193,0.403,0,Green Room
+1,8,4,21,0.574,0.558,0.017,Green Room
+1,8,4,22,0.556,0.474,0.082,Green Room
+1,8,4,23,1.189,0.575,0.614,Medium Wastage Room
+1,8,5,0,0.188,0.218,0,Green Room
+1,8,5,1,0.125,0.508,0,Green Room
+1,8,5,2,0.928,0.348,0.581,Medium Wastage Room
+1,8,5,3,0.068,0.287,0,Green Room
+1,8,5,4,0.248,0.325,0,Green Room
+1,8,5,5,0.794,0.445,0.349,Medium Wastage Room
+1,8,5,6,0.169,0.583,0,Green Room
+1,8,5,7,0.131,0.493,0,Green Room
+1,8,5,8,0.22,0.511,0,Green Room
+1,8,5,9,0.064,0.52,0,Green Room
+1,8,5,10,0.963,0.516,0.447,Medium Wastage Room
+1,8,5,11,0.22,0.505,0,Green Room
+1,8,5,12,0.246,0.449,0,Green Room
+1,8,5,13,0.085,0.252,0,Green Room
+1,8,5,14,0.072,0.333,0,Green Room
+1,8,5,15,0.066,0.299,0,Green Room
+1,8,5,16,0.064,0.228,0,Green Room
+1,8,5,17,0.617,0.579,0.038,Green Room
+1,8,5,18,0.123,0.446,0,Green Room
+1,8,5,19,0.139,0.242,0,Green Room
+1,8,5,20,0.089,0.357,0,Green Room
+1,8,5,21,0.162,0.499,0,Green Room
+1,8,5,22,0.852,0.584,0.268,Green Room
+1,8,5,23,0.168,0.341,0,Green Room
+1,8,6,0,0.248,0.352,0,Green Room
+1,8,6,1,1.42,0.485,0.935,High Wastage Room
+1,8,6,2,0.181,0.474,0,Green Room
+1,8,6,3,0.094,0.41,0,Green Room
+1,8,6,4,0.144,0.557,0,Green Room
+1,8,6,5,0.204,0.46,0,Green Room
+1,8,6,6,0.231,0.22,0.011,Green Room
+1,8,6,7,1.012,0.274,0.738,Medium Wastage Room
+1,8,6,8,0.071,0.448,0,Green Room
+1,8,6,9,1.27,0.513,0.757,Medium Wastage Room
+1,8,6,10,0.207,0.374,0,Green Room
+1,8,6,11,0.102,0.318,0,Green Room
+1,8,6,12,0.099,0.412,0,Green Room
+1,8,6,13,0.2,0.299,0,Green Room
+1,8,6,14,0.661,0.229,0.432,Medium Wastage Room
+1,8,6,15,0.179,0.502,0,Green Room
+1,8,6,16,0.739,0.367,0.372,Medium Wastage Room
+1,8,6,17,1.389,0.286,1.103,High Wastage Room
+1,8,6,18,0.207,0.252,0,Green Room
+1,8,6,19,1.261,0.49,0.771,Medium Wastage Room
+1,8,6,20,1.173,0.46,0.713,Medium Wastage Room
+1,8,6,21,0.185,0.545,0,Green Room
+1,8,6,22,1.025,0.213,0.812,High Wastage Room
+1,8,6,23,0.235,0.469,0,Green Room
+1,8,7,0,1.037,0.47,0.568,Medium Wastage Room
+1,8,7,1,1.431,0.222,1.209,High Wastage Room
+1,8,7,2,0.085,0.251,0,Green Room
+1,8,7,3,0.473,0.467,0.006,Green Room
+1,8,7,4,0.128,0.427,0,Green Room
+1,8,7,5,0.076,0.527,0,Green Room
+1,8,7,6,1.409,0.423,0.985,High Wastage Room
+1,8,7,7,0.188,0.34,0,Green Room
+1,8,7,8,0.119,0.523,0,Green Room
+1,8,7,9,0.117,0.524,0,Green Room
+1,8,7,10,1.056,0.356,0.7,Medium Wastage Room
+1,8,7,11,0.144,0.458,0,Green Room
+1,8,7,12,0.158,0.201,0,Green Room
+1,8,7,13,0.241,0.586,0,Green Room
+1,8,7,14,0.613,0.302,0.312,Medium Wastage Room
+1,8,7,15,0.219,0.37,0,Green Room
+1,8,7,16,0.134,0.384,0,Green Room
+1,8,7,17,0.087,0.514,0,Green Room
+1,8,7,18,1.162,0.409,0.753,Medium Wastage Room
+1,8,7,19,0.147,0.492,0,Green Room
+1,8,7,20,0.179,0.5,0,Green Room
+1,8,7,21,1.062,0.285,0.778,Medium Wastage Room
+1,8,7,22,0.48,0.45,0.03,Green Room
+1,8,7,23,0.407,0.484,0,Green Room
+2,8,1,0,0.706,0.585,0.121,Green Room
+2,8,1,1,0.135,0.324,0,Green Room
+2,8,1,2,0.211,0.426,0,Green Room
+2,8,1,3,0.124,0.352,0,Green Room
+2,8,1,4,0.159,0.545,0,Green Room
+2,8,1,5,0.222,0.596,0,Green Room
+2,8,1,6,0.239,0.278,0,Green Room
+2,8,1,7,1.179,0.318,0.862,High Wastage Room
+2,8,1,8,0.638,0.506,0.131,Green Room
+2,8,1,9,0.234,0.207,0.026,Green Room
+2,8,1,10,0.19,0.529,0,Green Room
+2,8,1,11,1.629,0.522,1.107,High Wastage Room
+2,8,1,12,0.075,0.588,0,Green Room
+2,8,1,13,0.155,0.441,0,Green Room
+2,8,1,14,0.224,0.522,0,Green Room
+2,8,1,15,0.125,0.394,0,Green Room
+2,8,1,16,1.181,0.494,0.687,Medium Wastage Room
+2,8,1,17,0.827,0.375,0.452,Medium Wastage Room
+2,8,1,18,0.147,0.521,0,Green Room
+2,8,1,19,0.118,0.322,0,Green Room
+2,8,1,20,0.235,0.257,0,Green Room
+2,8,1,21,1.446,0.412,1.033,High Wastage Room
+2,8,1,22,1.497,0.431,1.066,High Wastage Room
+2,8,1,23,0.155,0.552,0,Green Room
+2,8,2,0,0.191,0.397,0,Green Room
+2,8,2,1,0.12,0.391,0,Green Room
+2,8,2,2,0.069,0.296,0,Green Room
+2,8,2,3,0.051,0.36,0,Green Room
+2,8,2,4,1.115,0.295,0.821,High Wastage Room
+2,8,2,5,0.077,0.485,0,Green Room
+2,8,2,6,1.15,0.555,0.595,Medium Wastage Room
+2,8,2,7,0.127,0.464,0,Green Room
+2,8,2,8,0.089,0.339,0,Green Room
+2,8,2,9,0.499,0.243,0.257,Green Room
+2,8,2,10,0.198,0.245,0,Green Room
+2,8,2,11,0.12,0.427,0,Green Room
+2,8,2,12,0.857,0.243,0.614,Medium Wastage Room
+2,8,2,13,0.102,0.406,0,Green Room
+2,8,2,14,1.444,0.301,1.143,High Wastage Room
+2,8,2,15,0.085,0.422,0,Green Room
+2,8,2,16,0.246,0.479,0,Green Room
+2,8,2,17,0.228,0.243,0,Green Room
+2,8,2,18,0.066,0.312,0,Green Room
+2,8,2,19,0.3,0.427,0,Green Room
+2,8,2,20,0.111,0.218,0,Green Room
+2,8,2,21,0.234,0.509,0,Green Room
+2,8,2,22,0.154,0.486,0,Green Room
+2,8,2,23,0.141,0.32,0,Green Room
+2,8,3,0,1.19,0.592,0.598,Medium Wastage Room
+2,8,3,1,0.586,0.516,0.07,Green Room
+2,8,3,2,0.079,0.254,0,Green Room
+2,8,3,3,0.057,0.563,0,Green Room
+2,8,3,4,0.608,0.346,0.262,Green Room
+2,8,3,5,0.857,0.413,0.444,Medium Wastage Room
+2,8,3,6,0.416,0.258,0.158,Green Room
+2,8,3,7,0.813,0.524,0.289,Green Room
+2,8,3,8,0.568,0.54,0.028,Green Room
+2,8,3,9,0.125,0.478,0,Green Room
+2,8,3,10,0.213,0.209,0.004,Green Room
+2,8,3,11,0.117,0.219,0,Green Room
+2,8,3,12,0.11,0.588,0,Green Room
+2,8,3,13,0.131,0.262,0,Green Room
+2,8,3,14,0.119,0.569,0,Green Room
+2,8,3,15,0.236,0.322,0,Green Room
+2,8,3,16,1.204,0.449,0.755,Medium Wastage Room
+2,8,3,17,0.317,0.419,0,Green Room
+2,8,3,18,0.173,0.555,0,Green Room
+2,8,3,19,0.811,0.254,0.556,Medium Wastage Room
+2,8,3,20,0.845,0.586,0.258,Green Room
+2,8,3,21,1.08,0.581,0.499,Medium Wastage Room
+2,8,3,22,1.314,0.474,0.84,High Wastage Room
+2,8,3,23,0.061,0.215,0,Green Room
+2,8,4,0,1.11,0.457,0.654,Medium Wastage Room
+2,8,4,1,0.542,0.366,0.177,Green Room
+2,8,4,2,0.142,0.32,0,Green Room
+2,8,4,3,0.723,0.375,0.348,Medium Wastage Room
+2,8,4,4,1.479,0.298,1.181,High Wastage Room
+2,8,4,5,0.121,0.459,0,Green Room
+2,8,4,6,0.062,0.597,0,Green Room
+2,8,4,7,0.203,0.476,0,Green Room
+2,8,4,8,0.228,0.521,0,Green Room
+2,8,4,9,0.139,0.353,0,Green Room
+2,8,4,10,0.917,0.276,0.641,Medium Wastage Room
+2,8,4,11,0.677,0.554,0.122,Green Room
+2,8,4,12,0.121,0.389,0,Green Room
+2,8,4,13,0.113,0.333,0,Green Room
+2,8,4,14,0.051,0.394,0,Green Room
+2,8,4,15,0.245,0.349,0,Green Room
+2,8,4,16,1.138,0.318,0.819,High Wastage Room
+2,8,4,17,0.117,0.57,0,Green Room
+2,8,4,18,0.194,0.213,0,Green Room
+2,8,4,19,0.212,0.255,0,Green Room
+2,8,4,20,0.071,0.25,0,Green Room
+2,8,4,21,0.189,0.358,0,Green Room
+2,8,4,22,0.231,0.309,0,Green Room
+2,8,4,23,0.053,0.358,0,Green Room
+2,8,5,0,0.184,0.571,0,Green Room
+2,8,5,1,0.182,0.296,0,Green Room
+2,8,5,2,1.399,0.241,1.158,High Wastage Room
+2,8,5,3,0.197,0.282,0,Green Room
+2,8,5,4,1.295,0.43,0.865,High Wastage Room
+2,8,5,5,0.135,0.331,0,Green Room
+2,8,5,6,0.069,0.419,0,Green Room
+2,8,5,7,0.212,0.253,0,Green Room
+2,8,5,8,1.636,0.208,1.428,High Wastage Room
+2,8,5,9,1.503,0.441,1.062,High Wastage Room
+2,8,5,10,0.162,0.379,0,Green Room
+2,8,5,11,0.235,0.262,0,Green Room
+2,8,5,12,0.242,0.471,0,Green Room
+2,8,5,13,0.105,0.434,0,Green Room
+2,8,5,14,0.21,0.44,0,Green Room
+2,8,5,15,0.072,0.491,0,Green Room
+2,8,5,16,0.181,0.253,0,Green Room
+2,8,5,17,0.188,0.229,0,Green Room
+2,8,5,18,0.54,0.353,0.187,Green Room
+2,8,5,19,1.378,0.499,0.878,High Wastage Room
+2,8,5,20,0.318,0.268,0.05,Green Room
+2,8,5,21,1.43,0.256,1.174,High Wastage Room
+2,8,5,22,0.246,0.53,0,Green Room
+2,8,5,23,0.419,0.286,0.132,Green Room
+2,8,6,0,0.184,0.538,0,Green Room
+2,8,6,1,1.108,0.26,0.848,High Wastage Room
+2,8,6,2,0.901,0.205,0.696,Medium Wastage Room
+2,8,6,3,0.181,0.476,0,Green Room
+2,8,6,4,1.137,0.508,0.628,Medium Wastage Room
+2,8,6,5,0.131,0.329,0,Green Room
+2,8,6,6,1.694,0.501,1.193,High Wastage Room
+2,8,6,7,1.297,0.587,0.709,Medium Wastage Room
+2,8,6,8,0.632,0.495,0.136,Green Room
+2,8,6,9,0.222,0.423,0,Green Room
+2,8,6,10,0.876,0.448,0.427,Medium Wastage Room
+2,8,6,11,0.45,0.489,0,Green Room
+2,8,6,12,1.339,0.352,0.987,High Wastage Room
+2,8,6,13,0.148,0.537,0,Green Room
+2,8,6,14,0.874,0.486,0.388,Medium Wastage Room
+2,8,6,15,1.256,0.243,1.013,High Wastage Room
+2,8,6,16,0.246,0.201,0.045,Green Room
+2,8,6,17,0.209,0.204,0.005,Green Room
+2,8,6,18,0.182,0.348,0,Green Room
+2,8,6,19,0.24,0.369,0,Green Room
+2,8,6,20,0.051,0.402,0,Green Room
+2,8,6,21,1.116,0.226,0.889,High Wastage Room
+2,8,6,22,0.097,0.454,0,Green Room
+2,8,6,23,0.117,0.238,0,Green Room
+2,8,7,0,0.218,0.5,0,Green Room
+2,8,7,1,0.059,0.228,0,Green Room
+2,8,7,2,0.079,0.469,0,Green Room
+2,8,7,3,0.937,0.309,0.628,Medium Wastage Room
+2,8,7,4,0.237,0.482,0,Green Room
+2,8,7,5,0.225,0.201,0.024,Green Room
+2,8,7,6,0.854,0.539,0.315,Medium Wastage Room
+2,8,7,7,0.131,0.371,0,Green Room
+2,8,7,8,0.141,0.384,0,Green Room
+2,8,7,9,1.237,0.381,0.856,High Wastage Room
+2,8,7,10,1.656,0.266,1.391,High Wastage Room
+2,8,7,11,0.635,0.301,0.334,Medium Wastage Room
+2,8,7,12,0.079,0.455,0,Green Room
+2,8,7,13,1.4,0.593,0.807,High Wastage Room
+2,8,7,14,0.57,0.379,0.191,Green Room
+2,8,7,15,0.204,0.479,0,Green Room
+2,8,7,16,0.212,0.273,0,Green Room
+2,8,7,17,0.181,0.398,0,Green Room
+2,8,7,18,0.077,0.323,0,Green Room
+2,8,7,19,0.842,0.381,0.461,Medium Wastage Room
+2,8,7,20,1.37,0.495,0.874,High Wastage Room
+2,8,7,21,0.182,0.223,0,Green Room
+2,8,7,22,0.212,0.446,0,Green Room
+2,8,7,23,0.081,0.539,0,Green Room
+3,8,1,0,1.535,0.279,1.257,High Wastage Room
+3,8,1,1,0.206,0.31,0,Green Room
+3,8,1,2,0.185,0.422,0,Green Room
+3,8,1,3,0.921,0.387,0.534,Medium Wastage Room
+3,8,1,4,1.171,0.284,0.887,High Wastage Room
+3,8,1,5,0.158,0.396,0,Green Room
+3,8,1,6,0.228,0.389,0,Green Room
+3,8,1,7,0.545,0.541,0.004,Green Room
+3,8,1,8,0.054,0.428,0,Green Room
+3,8,1,9,1.367,0.394,0.972,High Wastage Room
+3,8,1,10,0.175,0.399,0,Green Room
+3,8,1,11,0.131,0.537,0,Green Room
+3,8,1,12,0.164,0.44,0,Green Room
+3,8,1,13,0.191,0.308,0,Green Room
+3,8,1,14,1.65,0.512,1.139,High Wastage Room
+3,8,1,15,1.549,0.391,1.158,High Wastage Room
+3,8,1,16,0.153,0.377,0,Green Room
+3,8,1,17,0.244,0.537,0,Green Room
+3,8,1,18,0.123,0.232,0,Green Room
+3,8,1,19,0.23,0.482,0,Green Room
+3,8,1,20,0.126,0.428,0,Green Room
+3,8,1,21,0.358,0.222,0.136,Green Room
+3,8,1,22,0.091,0.558,0,Green Room
+3,8,1,23,0.062,0.254,0,Green Room
+3,8,2,0,0.053,0.27,0,Green Room
+3,8,2,1,0.507,0.312,0.195,Green Room
+3,8,2,2,0.082,0.55,0,Green Room
+3,8,2,3,0.465,0.259,0.206,Green Room
+3,8,2,4,1.277,0.352,0.926,High Wastage Room
+3,8,2,5,1.334,0.541,0.793,Medium Wastage Room
+3,8,2,6,0.218,0.394,0,Green Room
+3,8,2,7,0.115,0.537,0,Green Room
+3,8,2,8,0.116,0.315,0,Green Room
+3,8,2,9,0.918,0.322,0.595,Medium Wastage Room
+3,8,2,10,0.087,0.304,0,Green Room
+3,8,2,11,0.066,0.369,0,Green Room
+3,8,2,12,0.111,0.284,0,Green Room
+3,8,2,13,0.122,0.475,0,Green Room
+3,8,2,14,0.229,0.563,0,Green Room
+3,8,2,15,0.096,0.551,0,Green Room
+3,8,2,16,0.419,0.492,0,Green Room
+3,8,2,17,0.25,0.212,0.037,Green Room
+3,8,2,18,1.362,0.583,0.779,Medium Wastage Room
+3,8,2,19,0.128,0.596,0,Green Room
+3,8,2,20,0.117,0.235,0,Green Room
+3,8,2,21,0.055,0.284,0,Green Room
+3,8,2,22,0.114,0.387,0,Green Room
+3,8,2,23,0.892,0.569,0.323,Medium Wastage Room
+3,8,3,0,0.074,0.55,0,Green Room
+3,8,3,1,0.585,0.304,0.281,Green Room
+3,8,3,2,0.243,0.352,0,Green Room
+3,8,3,3,0.213,0.515,0,Green Room
+3,8,3,4,1.674,0.319,1.356,High Wastage Room
+3,8,3,5,0.38,0.225,0.155,Green Room
+3,8,3,6,0.217,0.318,0,Green Room
+3,8,3,7,0.148,0.482,0,Green Room
+3,8,3,8,1.36,0.417,0.943,High Wastage Room
+3,8,3,9,0.096,0.465,0,Green Room
+3,8,3,10,0.079,0.516,0,Green Room
+3,8,3,11,1.268,0.571,0.697,Medium Wastage Room
+3,8,3,12,1.032,0.51,0.522,Medium Wastage Room
+3,8,3,13,0.966,0.443,0.523,Medium Wastage Room
+3,8,3,14,0.091,0.326,0,Green Room
+3,8,3,15,1.239,0.584,0.655,Medium Wastage Room
+3,8,3,16,0.834,0.482,0.352,Medium Wastage Room
+3,8,3,17,0.192,0.367,0,Green Room
+3,8,3,18,1.485,0.227,1.258,High Wastage Room
+3,8,3,19,0.182,0.525,0,Green Room
+3,8,3,20,0.219,0.506,0,Green Room
+3,8,3,21,0.546,0.302,0.245,Green Room
+3,8,3,22,1.62,0.591,1.029,High Wastage Room
+3,8,3,23,0.059,0.245,0,Green Room
+3,8,4,0,0.245,0.562,0,Green Room
+3,8,4,1,0.235,0.261,0,Green Room
+3,8,4,2,0.105,0.555,0,Green Room
+3,8,4,3,0.067,0.352,0,Green Room
+3,8,4,4,0.448,0.443,0.005,Green Room
+3,8,4,5,0.209,0.488,0,Green Room
+3,8,4,6,1.136,0.542,0.594,Medium Wastage Room
+3,8,4,7,0.885,0.453,0.432,Medium Wastage Room
+3,8,4,8,0.241,0.356,0,Green Room
+3,8,4,9,0.114,0.326,0,Green Room
+3,8,4,10,0.158,0.353,0,Green Room
+3,8,4,11,0.939,0.371,0.568,Medium Wastage Room
+3,8,4,12,0.221,0.567,0,Green Room
+3,8,4,13,0.397,0.354,0.043,Green Room
+3,8,4,14,0.173,0.354,0,Green Room
+3,8,4,15,0.192,0.397,0,Green Room
+3,8,4,16,1.221,0.346,0.874,High Wastage Room
+3,8,4,17,0.243,0.431,0,Green Room
+3,8,4,18,0.238,0.524,0,Green Room
+3,8,4,19,1.429,0.362,1.067,High Wastage Room
+3,8,4,20,1.084,0.205,0.879,High Wastage Room
+3,8,4,21,0.067,0.431,0,Green Room
+3,8,4,22,0.22,0.486,0,Green Room
+3,8,4,23,0.155,0.446,0,Green Room
+3,8,5,0,0.203,0.227,0,Green Room
+3,8,5,1,1.267,0.589,0.678,Medium Wastage Room
+3,8,5,2,0.1,0.446,0,Green Room
+3,8,5,3,1.228,0.446,0.783,Medium Wastage Room
+3,8,5,4,0.232,0.257,0,Green Room
+3,8,5,5,0.427,0.581,0,Green Room
+3,8,5,6,0.101,0.254,0,Green Room
+3,8,5,7,0.077,0.518,0,Green Room
+3,8,5,8,0.099,0.266,0,Green Room
+3,8,5,9,1.39,0.417,0.972,High Wastage Room
+3,8,5,10,0.108,0.432,0,Green Room
+3,8,5,11,0.161,0.339,0,Green Room
+3,8,5,12,0.241,0.303,0,Green Room
+3,8,5,13,0.245,0.412,0,Green Room
+3,8,5,14,0.221,0.563,0,Green Room
+3,8,5,15,0.247,0.314,0,Green Room
+3,8,5,16,0.204,0.489,0,Green Room
+3,8,5,17,1.381,0.391,0.991,High Wastage Room
+3,8,5,18,0.154,0.273,0,Green Room
+3,8,5,19,0.144,0.389,0,Green Room
+3,8,5,20,0.121,0.357,0,Green Room
+3,8,5,21,0.464,0.431,0.033,Green Room
+3,8,5,22,0.982,0.397,0.585,Medium Wastage Room
+3,8,5,23,0.172,0.229,0,Green Room
+3,8,6,0,1.552,0.37,1.182,High Wastage Room
+3,8,6,1,0.056,0.508,0,Green Room
+3,8,6,2,0.057,0.565,0,Green Room
+3,8,6,3,1.13,0.583,0.547,Medium Wastage Room
+3,8,6,4,0.157,0.48,0,Green Room
+3,8,6,5,0.571,0.4,0.171,Green Room
+3,8,6,6,0.059,0.435,0,Green Room
+3,8,6,7,0.093,0.53,0,Green Room
+3,8,6,8,0.096,0.379,0,Green Room
+3,8,6,9,0.372,0.564,0,Green Room
+3,8,6,10,0.463,0.311,0.153,Green Room
+3,8,6,11,1.208,0.57,0.638,Medium Wastage Room
+3,8,6,12,0.204,0.249,0,Green Room
+3,8,6,13,0.543,0.288,0.255,Green Room
+3,8,6,14,1.528,0.276,1.252,High Wastage Room
+3,8,6,15,0.195,0.274,0,Green Room
+3,8,6,16,0.757,0.321,0.436,Medium Wastage Room
+3,8,6,17,1.591,0.206,1.385,High Wastage Room
+3,8,6,18,0.167,0.221,0,Green Room
+3,8,6,19,1.218,0.574,0.644,Medium Wastage Room
+3,8,6,20,0.158,0.264,0,Green Room
+3,8,6,21,0.678,0.385,0.293,Green Room
+3,8,6,22,0.293,0.478,0,Green Room
+3,8,6,23,0.841,0.311,0.529,Medium Wastage Room
+3,8,7,0,0.128,0.281,0,Green Room
+3,8,7,1,0.072,0.398,0,Green Room
+3,8,7,2,0.141,0.546,0,Green Room
+3,8,7,3,0.164,0.485,0,Green Room
+3,8,7,4,1.173,0.245,0.928,High Wastage Room
+3,8,7,5,1.336,0.444,0.892,High Wastage Room
+3,8,7,6,0.161,0.476,0,Green Room
+3,8,7,7,0.176,0.448,0,Green Room
+3,8,7,8,1.425,0.248,1.176,High Wastage Room
+3,8,7,9,0.204,0.278,0,Green Room
+3,8,7,10,0.199,0.272,0,Green Room
+3,8,7,11,0.192,0.369,0,Green Room
+3,8,7,12,0.122,0.477,0,Green Room
+3,8,7,13,1.08,0.468,0.612,Medium Wastage Room
+3,8,7,14,0.218,0.343,0,Green Room
+3,8,7,15,0.124,0.226,0,Green Room
+3,8,7,16,1.429,0.477,0.952,High Wastage Room
+3,8,7,17,0.145,0.476,0,Green Room
+3,8,7,18,0.093,0.547,0,Green Room
+3,8,7,19,0.506,0.395,0.11,Green Room
+3,8,7,20,1.677,0.575,1.102,High Wastage Room
+3,8,7,21,0.195,0.31,0,Green Room
+3,8,7,22,0.214,0.231,0,Green Room
+3,8,7,23,0.205,0.264,0,Green Room
+4,8,1,0,0.612,0.482,0.13,Green Room
+4,8,1,1,0.941,0.308,0.633,Medium Wastage Room
+4,8,1,2,0.188,0.589,0,Green Room
+4,8,1,3,0.249,0.365,0,Green Room
+4,8,1,4,0.226,0.233,0,Green Room
+4,8,1,5,0.237,0.436,0,Green Room
+4,8,1,6,0.154,0.515,0,Green Room
+4,8,1,7,0.154,0.593,0,Green Room
+4,8,1,8,0.49,0.378,0.112,Green Room
+4,8,1,9,0.18,0.555,0,Green Room
+4,8,1,10,0.07,0.464,0,Green Room
+4,8,1,11,1.018,0.381,0.637,Medium Wastage Room
+4,8,1,12,0.526,0.524,0.002,Green Room
+4,8,1,13,0.392,0.208,0.185,Green Room
+4,8,1,14,0.066,0.373,0,Green Room
+4,8,1,15,0.189,0.215,0,Green Room
+4,8,1,16,0.234,0.331,0,Green Room
+4,8,1,17,0.174,0.253,0,Green Room
+4,8,1,18,0.682,0.347,0.335,Medium Wastage Room
+4,8,1,19,1.337,0.552,0.785,Medium Wastage Room
+4,8,1,20,0.174,0.354,0,Green Room
+4,8,1,21,0.175,0.508,0,Green Room
+4,8,1,22,0.134,0.503,0,Green Room
+4,8,1,23,0.078,0.226,0,Green Room
+4,8,2,0,0.196,0.341,0,Green Room
+4,8,2,1,1.034,0.467,0.567,Medium Wastage Room
+4,8,2,2,0.062,0.49,0,Green Room
+4,8,2,3,0.053,0.431,0,Green Room
+4,8,2,4,0.25,0.243,0.007,Green Room
+4,8,2,5,1.626,0.536,1.091,High Wastage Room
+4,8,2,6,0.569,0.238,0.331,Medium Wastage Room
+4,8,2,7,1.625,0.586,1.038,High Wastage Room
+4,8,2,8,0.143,0.574,0,Green Room
+4,8,2,9,0.157,0.443,0,Green Room
+4,8,2,10,0.665,0.569,0.095,Green Room
+4,8,2,11,0.11,0.298,0,Green Room
+4,8,2,12,0.231,0.465,0,Green Room
+4,8,2,13,0.194,0.317,0,Green Room
+4,8,2,14,0.122,0.386,0,Green Room
+4,8,2,15,0.836,0.578,0.258,Green Room
+4,8,2,16,0.143,0.248,0,Green Room
+4,8,2,17,0.15,0.462,0,Green Room
+4,8,2,18,0.319,0.485,0,Green Room
+4,8,2,19,0.132,0.428,0,Green Room
+4,8,2,20,0.505,0.464,0.041,Green Room
+4,8,2,21,0.133,0.571,0,Green Room
+4,8,2,22,0.176,0.368,0,Green Room
+4,8,2,23,1.514,0.52,0.995,High Wastage Room
+4,8,3,0,1.202,0.334,0.868,High Wastage Room
+4,8,3,1,0.073,0.543,0,Green Room
+4,8,3,2,1.591,0.414,1.177,High Wastage Room
+4,8,3,3,0.605,0.463,0.141,Green Room
+4,8,3,4,0.085,0.364,0,Green Room
+4,8,3,5,0.962,0.28,0.682,Medium Wastage Room
+4,8,3,6,0.06,0.462,0,Green Room
+4,8,3,7,0.213,0.453,0,Green Room
+4,8,3,8,0.702,0.577,0.125,Green Room
+4,8,3,9,0.086,0.381,0,Green Room
+4,8,3,10,0.207,0.279,0,Green Room
+4,8,3,11,0.46,0.234,0.226,Green Room
+4,8,3,12,0.5,0.335,0.164,Green Room
+4,8,3,13,1.191,0.262,0.928,High Wastage Room
+4,8,3,14,0.092,0.407,0,Green Room
+4,8,3,15,0.238,0.305,0,Green Room
+4,8,3,16,0.145,0.534,0,Green Room
+4,8,3,17,0.214,0.512,0,Green Room
+4,8,3,18,0.166,0.543,0,Green Room
+4,8,3,19,1.635,0.535,1.1,High Wastage Room
+4,8,3,20,0.166,0.311,0,Green Room
+4,8,3,21,1.221,0.408,0.812,High Wastage Room
+4,8,3,22,0.074,0.527,0,Green Room
+4,8,3,23,0.17,0.404,0,Green Room
+4,8,4,0,0.164,0.552,0,Green Room
+4,8,4,1,1.457,0.267,1.19,High Wastage Room
+4,8,4,2,0.294,0.493,0,Green Room
+4,8,4,3,0.504,0.402,0.102,Green Room
+4,8,4,4,1.54,0.334,1.205,High Wastage Room
+4,8,4,5,0.788,0.42,0.369,Medium Wastage Room
+4,8,4,6,0.747,0.453,0.294,Green Room
+4,8,4,7,0.229,0.296,0,Green Room
+4,8,4,8,0.303,0.379,0,Green Room
+4,8,4,9,1.12,0.468,0.652,Medium Wastage Room
+4,8,4,10,0.088,0.207,0,Green Room
+4,8,4,11,0.222,0.243,0,Green Room
+4,8,4,12,0.183,0.239,0,Green Room
+4,8,4,13,1.648,0.494,1.154,High Wastage Room
+4,8,4,14,0.111,0.227,0,Green Room
+4,8,4,15,0.223,0.448,0,Green Room
+4,8,4,16,0.398,0.395,0.003,Green Room
+4,8,4,17,0.099,0.322,0,Green Room
+4,8,4,18,0.181,0.413,0,Green Room
+4,8,4,19,0.073,0.399,0,Green Room
+4,8,4,20,0.101,0.316,0,Green Room
+4,8,4,21,0.182,0.409,0,Green Room
+4,8,4,22,1.222,0.549,0.673,Medium Wastage Room
+4,8,4,23,1.505,0.42,1.084,High Wastage Room
+4,8,5,0,0.093,0.279,0,Green Room
+4,8,5,1,0.146,0.337,0,Green Room
+4,8,5,2,0.71,0.364,0.346,Medium Wastage Room
+4,8,5,3,0.18,0.386,0,Green Room
+4,8,5,4,1.603,0.479,1.124,High Wastage Room
+4,8,5,5,1.618,0.598,1.02,High Wastage Room
+4,8,5,6,0.221,0.47,0,Green Room
+4,8,5,7,1.441,0.501,0.939,High Wastage Room
+4,8,5,8,0.136,0.483,0,Green Room
+4,8,5,9,0.084,0.208,0,Green Room
+4,8,5,10,1.055,0.387,0.668,Medium Wastage Room
+4,8,5,11,0.743,0.559,0.184,Green Room
+4,8,5,12,0.072,0.338,0,Green Room
+4,8,5,13,1.128,0.302,0.825,High Wastage Room
+4,8,5,14,0.071,0.567,0,Green Room
+4,8,5,15,0.06,0.247,0,Green Room
+4,8,5,16,0.119,0.47,0,Green Room
+4,8,5,17,0.218,0.54,0,Green Room
+4,8,5,18,0.057,0.233,0,Green Room
+4,8,5,19,0.19,0.313,0,Green Room
+4,8,5,20,0.199,0.528,0,Green Room
+4,8,5,21,0.223,0.554,0,Green Room
+4,8,5,22,0.115,0.384,0,Green Room
+4,8,5,23,0.576,0.447,0.128,Green Room
+4,8,6,0,0.193,0.44,0,Green Room
+4,8,6,1,0.157,0.472,0,Green Room
+4,8,6,2,0.535,0.543,0,Green Room
+4,8,6,3,0.081,0.248,0,Green Room
+4,8,6,4,1.471,0.489,0.982,High Wastage Room
+4,8,6,5,0.202,0.534,0,Green Room
+4,8,6,6,0.081,0.381,0,Green Room
+4,8,6,7,0.073,0.579,0,Green Room
+4,8,6,8,0.172,0.473,0,Green Room
+4,8,6,9,0.591,0.546,0.045,Green Room
+4,8,6,10,1.582,0.311,1.272,High Wastage Room
+4,8,6,11,0.121,0.507,0,Green Room
+4,8,6,12,0.208,0.236,0,Green Room
+4,8,6,13,0.213,0.368,0,Green Room
+4,8,6,14,0.408,0.546,0,Green Room
+4,8,6,15,1.552,0.588,0.964,High Wastage Room
+4,8,6,16,0.239,0.375,0,Green Room
+4,8,6,17,0.87,0.269,0.601,Medium Wastage Room
+4,8,6,18,0.18,0.557,0,Green Room
+4,8,6,19,0.143,0.437,0,Green Room
+4,8,6,20,0.083,0.34,0,Green Room
+4,8,6,21,0.802,0.519,0.283,Green Room
+4,8,6,22,0.541,0.239,0.302,Medium Wastage Room
+4,8,6,23,0.221,0.26,0,Green Room
+4,8,7,0,0.185,0.366,0,Green Room
+4,8,7,1,0.309,0.283,0.027,Green Room
+4,8,7,2,1.144,0.335,0.809,High Wastage Room
+4,8,7,3,1.14,0.319,0.821,High Wastage Room
+4,8,7,4,0.248,0.531,0,Green Room
+4,8,7,5,0.089,0.264,0,Green Room
+4,8,7,6,0.894,0.572,0.323,Medium Wastage Room
+4,8,7,7,0.202,0.516,0,Green Room
+4,8,7,8,0.221,0.5,0,Green Room
+4,8,7,9,0.088,0.254,0,Green Room
+4,8,7,10,0.567,0.451,0.116,Green Room
+4,8,7,11,0.154,0.432,0,Green Room
+4,8,7,12,1.031,0.596,0.434,Medium Wastage Room
+4,8,7,13,1.228,0.291,0.937,High Wastage Room
+4,8,7,14,1.443,0.204,1.239,High Wastage Room
+4,8,7,15,0.238,0.501,0,Green Room
+4,8,7,16,0.059,0.454,0,Green Room
+4,8,7,17,0.195,0.475,0,Green Room
+4,8,7,18,0.59,0.462,0.128,Green Room
+4,8,7,19,1.076,0.517,0.559,Medium Wastage Room
+4,8,7,20,0.1,0.31,0,Green Room
+4,8,7,21,0.217,0.543,0,Green Room
+4,8,7,22,1.109,0.587,0.522,Medium Wastage Room
+4,8,7,23,0.233,0.449,0,Green Room
+5,8,1,0,0.065,0.417,0,Green Room
+5,8,1,1,0.216,0.598,0,Green Room
+5,8,1,2,0.681,0.486,0.194,Green Room
+5,8,1,3,0.151,0.56,0,Green Room
+5,8,1,4,0.923,0.312,0.611,Medium Wastage Room
+5,8,1,5,1.008,0.373,0.635,Medium Wastage Room
+5,8,1,6,1.202,0.237,0.965,High Wastage Room
+5,8,1,7,0.202,0.495,0,Green Room
+5,8,1,8,1.113,0.34,0.772,Medium Wastage Room
+5,8,1,9,1.57,0.249,1.32,High Wastage Room
+5,8,1,10,0.056,0.485,0,Green Room
+5,8,1,11,1.413,0.217,1.196,High Wastage Room
+5,8,1,12,0.082,0.238,0,Green Room
+5,8,1,13,1.003,0.232,0.772,Medium Wastage Room
+5,8,1,14,0.469,0.374,0.095,Green Room
+5,8,1,15,0.141,0.584,0,Green Room
+5,8,1,16,0.746,0.288,0.458,Medium Wastage Room
+5,8,1,17,1.548,0.366,1.182,High Wastage Room
+5,8,1,18,1.126,0.267,0.858,High Wastage Room
+5,8,1,19,0.225,0.24,0,Green Room
+5,8,1,20,0.399,0.584,0,Green Room
+5,8,1,21,0.065,0.268,0,Green Room
+5,8,1,22,0.124,0.523,0,Green Room
+5,8,1,23,0.401,0.356,0.045,Green Room
+5,8,2,0,0.181,0.232,0,Green Room
+5,8,2,1,0.243,0.561,0,Green Room
+5,8,2,2,0.93,0.382,0.548,Medium Wastage Room
+5,8,2,3,1.633,0.524,1.109,High Wastage Room
+5,8,2,4,0.175,0.392,0,Green Room
+5,8,2,5,0.088,0.351,0,Green Room
+5,8,2,6,0.429,0.478,0,Green Room
+5,8,2,7,0.484,0.518,0,Green Room
+5,8,2,8,0.104,0.288,0,Green Room
+5,8,2,9,1.625,0.568,1.057,High Wastage Room
+5,8,2,10,0.102,0.587,0,Green Room
+5,8,2,11,0.091,0.548,0,Green Room
+5,8,2,12,0.116,0.396,0,Green Room
+5,8,2,13,0.147,0.577,0,Green Room
+5,8,2,14,0.687,0.203,0.485,Medium Wastage Room
+5,8,2,15,0.206,0.405,0,Green Room
+5,8,2,16,0.171,0.517,0,Green Room
+5,8,2,17,0.087,0.279,0,Green Room
+5,8,2,18,0.142,0.509,0,Green Room
+5,8,2,19,0.246,0.477,0,Green Room
+5,8,2,20,0.108,0.445,0,Green Room
+5,8,2,21,0.115,0.505,0,Green Room
+5,8,2,22,0.901,0.574,0.327,Medium Wastage Room
+5,8,2,23,0.092,0.262,0,Green Room
+5,8,3,0,0.234,0.372,0,Green Room
+5,8,3,1,0.224,0.376,0,Green Room
+5,8,3,2,1.191,0.544,0.647,Medium Wastage Room
+5,8,3,3,0.994,0.24,0.754,Medium Wastage Room
+5,8,3,4,0.179,0.481,0,Green Room
+5,8,3,5,0.24,0.32,0,Green Room
+5,8,3,6,0.177,0.328,0,Green Room
+5,8,3,7,0.192,0.462,0,Green Room
+5,8,3,8,1.02,0.333,0.687,Medium Wastage Room
+5,8,3,9,0.226,0.534,0,Green Room
+5,8,3,10,0.968,0.312,0.655,Medium Wastage Room
+5,8,3,11,0.164,0.311,0,Green Room
+5,8,3,12,0.963,0.21,0.753,Medium Wastage Room
+5,8,3,13,1.059,0.515,0.544,Medium Wastage Room
+5,8,3,14,0.141,0.592,0,Green Room
+5,8,3,15,0.75,0.415,0.335,Medium Wastage Room
+5,8,3,16,0.572,0.591,0,Green Room
+5,8,3,17,0.22,0.239,0,Green Room
+5,8,3,18,0.198,0.436,0,Green Room
+5,8,3,19,0.159,0.541,0,Green Room
+5,8,3,20,0.217,0.308,0,Green Room
+5,8,3,21,1.327,0.312,1.015,High Wastage Room
+5,8,3,22,0.179,0.27,0,Green Room
+5,8,3,23,0.192,0.304,0,Green Room
+5,8,4,0,0.234,0.297,0,Green Room
+5,8,4,1,0.093,0.493,0,Green Room
+5,8,4,2,0.423,0.378,0.045,Green Room
+5,8,4,3,0.092,0.218,0,Green Room
+5,8,4,4,0.067,0.442,0,Green Room
+5,8,4,5,0.33,0.491,0,Green Room
+5,8,4,6,0.188,0.232,0,Green Room
+5,8,4,7,0.214,0.357,0,Green Room
+5,8,4,8,0.56,0.591,0,Green Room
+5,8,4,9,0.178,0.428,0,Green Room
+5,8,4,10,0.689,0.323,0.367,Medium Wastage Room
+5,8,4,11,0.876,0.389,0.487,Medium Wastage Room
+5,8,4,12,0.421,0.43,0,Green Room
+5,8,4,13,0.704,0.46,0.244,Green Room
+5,8,4,14,0.197,0.303,0,Green Room
+5,8,4,15,0.248,0.535,0,Green Room
+5,8,4,16,0.385,0.398,0,Green Room
+5,8,4,17,0.885,0.536,0.349,Medium Wastage Room
+5,8,4,18,0.246,0.378,0,Green Room
+5,8,4,19,0.097,0.6,0,Green Room
+5,8,4,20,0.586,0.258,0.329,Medium Wastage Room
+5,8,4,21,1.613,0.456,1.157,High Wastage Room
+5,8,4,22,0.129,0.492,0,Green Room
+5,8,4,23,0.186,0.502,0,Green Room
+5,8,5,0,0.131,0.544,0,Green Room
+5,8,5,1,1.165,0.36,0.805,High Wastage Room
+5,8,5,2,0.145,0.446,0,Green Room
+5,8,5,3,0.123,0.273,0,Green Room
+5,8,5,4,1.162,0.586,0.576,Medium Wastage Room
+5,8,5,5,0.091,0.333,0,Green Room
+5,8,5,6,0.982,0.28,0.703,Medium Wastage Room
+5,8,5,7,0.216,0.276,0,Green Room
+5,8,5,8,1.403,0.475,0.928,High Wastage Room
+5,8,5,9,0.137,0.512,0,Green Room
+5,8,5,10,0.631,0.572,0.058,Green Room
+5,8,5,11,0.228,0.42,0,Green Room
+5,8,5,12,0.086,0.327,0,Green Room
+5,8,5,13,1.25,0.487,0.763,Medium Wastage Room
+5,8,5,14,0.062,0.355,0,Green Room
+5,8,5,15,0.161,0.585,0,Green Room
+5,8,5,16,1.138,0.584,0.554,Medium Wastage Room
+5,8,5,17,0.208,0.541,0,Green Room
+5,8,5,18,0.141,0.285,0,Green Room
+5,8,5,19,0.697,0.49,0.207,Green Room
+5,8,5,20,0.862,0.552,0.31,Medium Wastage Room
+5,8,5,21,0.125,0.555,0,Green Room
+5,8,5,22,0.139,0.559,0,Green Room
+5,8,5,23,0.883,0.255,0.629,Medium Wastage Room
+5,8,6,0,0.057,0.478,0,Green Room
+5,8,6,1,0.204,0.467,0,Green Room
+5,8,6,2,0.096,0.449,0,Green Room
+5,8,6,3,0.16,0.524,0,Green Room
+5,8,6,4,0.129,0.319,0,Green Room
+5,8,6,5,0.515,0.355,0.161,Green Room
+5,8,6,6,0.175,0.541,0,Green Room
+5,8,6,7,0.68,0.302,0.377,Medium Wastage Room
+5,8,6,8,0.12,0.474,0,Green Room
+5,8,6,9,1.09,0.325,0.765,Medium Wastage Room
+5,8,6,10,0.068,0.421,0,Green Room
+5,8,6,11,0.071,0.536,0,Green Room
+5,8,6,12,0.135,0.337,0,Green Room
+5,8,6,13,0.998,0.309,0.689,Medium Wastage Room
+5,8,6,14,0.126,0.306,0,Green Room
+5,8,6,15,0.179,0.577,0,Green Room
+5,8,6,16,1.339,0.474,0.865,High Wastage Room
+5,8,6,17,0.789,0.547,0.242,Green Room
+5,8,6,18,0.133,0.497,0,Green Room
+5,8,6,19,0.079,0.454,0,Green Room
+5,8,6,20,1.492,0.548,0.944,High Wastage Room
+5,8,6,21,1.556,0.453,1.103,High Wastage Room
+5,8,6,22,0.178,0.477,0,Green Room
+5,8,6,23,1.289,0.543,0.745,Medium Wastage Room
+5,8,7,0,1.461,0.479,0.982,High Wastage Room
+5,8,7,1,0.166,0.48,0,Green Room
+5,8,7,2,0.136,0.408,0,Green Room
+5,8,7,3,0.57,0.3,0.27,Green Room
+5,8,7,4,0.134,0.378,0,Green Room
+5,8,7,5,0.772,0.228,0.544,Medium Wastage Room
+5,8,7,6,0.237,0.484,0,Green Room
+5,8,7,7,0.062,0.471,0,Green Room
+5,8,7,8,0.718,0.598,0.121,Green Room
+5,8,7,9,0.181,0.533,0,Green Room
+5,8,7,10,0.096,0.49,0,Green Room
+5,8,7,11,0.373,0.463,0,Green Room
+5,8,7,12,0.134,0.437,0,Green Room
+5,8,7,13,0.925,0.371,0.554,Medium Wastage Room
+5,8,7,14,0.244,0.26,0,Green Room
+5,8,7,15,0.218,0.226,0,Green Room
+5,8,7,16,0.167,0.204,0,Green Room
+5,8,7,17,0.174,0.598,0,Green Room
+5,8,7,18,0.105,0.472,0,Green Room
+5,8,7,19,0.899,0.445,0.454,Medium Wastage Room
+5,8,7,20,0.081,0.383,0,Green Room
+5,8,7,21,0.084,0.427,0,Green Room
+5,8,7,22,0.111,0.238,0,Green Room
+5,8,7,23,0.141,0.367,0,Green Room
+6,8,1,0,0.063,0.451,0,Green Room
+6,8,1,1,0.14,0.375,0,Green Room
+6,8,1,2,0.564,0.386,0.178,Green Room
+6,8,1,3,0.851,0.38,0.471,Medium Wastage Room
+6,8,1,4,0.082,0.272,0,Green Room
+6,8,1,5,0.223,0.378,0,Green Room
+6,8,1,6,0.102,0.511,0,Green Room
+6,8,1,7,0.621,0.426,0.196,Green Room
+6,8,1,8,1.676,0.341,1.336,High Wastage Room
+6,8,1,9,0.873,0.592,0.281,Green Room
+6,8,1,10,1.263,0.372,0.891,High Wastage Room
+6,8,1,11,0.394,0.233,0.161,Green Room
+6,8,1,12,0.197,0.21,0,Green Room
+6,8,1,13,1.311,0.297,1.013,High Wastage Room
+6,8,1,14,0.589,0.53,0.059,Green Room
+6,8,1,15,0.815,0.51,0.305,Medium Wastage Room
+6,8,1,16,0.485,0.392,0.093,Green Room
+6,8,1,17,0.404,0.529,0,Green Room
+6,8,1,18,0.699,0.521,0.178,Green Room
+6,8,1,19,0.84,0.367,0.473,Medium Wastage Room
+6,8,1,20,0.164,0.589,0,Green Room
+6,8,1,21,0.476,0.305,0.171,Green Room
+6,8,1,22,0.108,0.268,0,Green Room
+6,8,1,23,0.217,0.352,0,Green Room
+6,8,2,0,0.93,0.531,0.399,Medium Wastage Room
+6,8,2,1,1.534,0.417,1.116,High Wastage Room
+6,8,2,2,0.579,0.278,0.301,Medium Wastage Room
+6,8,2,3,0.148,0.588,0,Green Room
+6,8,2,4,1.468,0.404,1.064,High Wastage Room
+6,8,2,5,0.453,0.391,0.063,Green Room
+6,8,2,6,0.208,0.271,0,Green Room
+6,8,2,7,0.202,0.522,0,Green Room
+6,8,2,8,0.12,0.579,0,Green Room
+6,8,2,9,0.106,0.535,0,Green Room
+6,8,2,10,0.758,0.279,0.479,Medium Wastage Room
+6,8,2,11,0.11,0.314,0,Green Room
+6,8,2,12,0.14,0.5,0,Green Room
+6,8,2,13,0.566,0.596,0,Green Room
+6,8,2,14,0.074,0.566,0,Green Room
+6,8,2,15,0.202,0.485,0,Green Room
+6,8,2,16,1.133,0.265,0.868,High Wastage Room
+6,8,2,17,0.125,0.287,0,Green Room
+6,8,2,18,0.185,0.428,0,Green Room
+6,8,2,19,0.681,0.318,0.363,Medium Wastage Room
+6,8,2,20,0.848,0.588,0.259,Green Room
+6,8,2,21,0.185,0.567,0,Green Room
+6,8,2,22,0.144,0.363,0,Green Room
+6,8,2,23,0.134,0.298,0,Green Room
+6,8,3,0,0.231,0.304,0,Green Room
+6,8,3,1,1.053,0.349,0.704,Medium Wastage Room
+6,8,3,2,1.308,0.44,0.868,High Wastage Room
+6,8,3,3,1.486,0.219,1.267,High Wastage Room
+6,8,3,4,1.021,0.541,0.481,Medium Wastage Room
+6,8,3,5,0.138,0.429,0,Green Room
+6,8,3,6,1.484,0.424,1.059,High Wastage Room
+6,8,3,7,0.107,0.592,0,Green Room
+6,8,3,8,0.08,0.202,0,Green Room
+6,8,3,9,0.73,0.299,0.431,Medium Wastage Room
+6,8,3,10,0.218,0.43,0,Green Room
+6,8,3,11,0.214,0.27,0,Green Room
+6,8,3,12,0.136,0.542,0,Green Room
+6,8,3,13,1.189,0.43,0.759,Medium Wastage Room
+6,8,3,14,1.568,0.466,1.102,High Wastage Room
+6,8,3,15,0.132,0.424,0,Green Room
+6,8,3,16,0.098,0.362,0,Green Room
+6,8,3,17,0.242,0.253,0,Green Room
+6,8,3,18,0.501,0.444,0.056,Green Room
+6,8,3,19,0.169,0.572,0,Green Room
+6,8,3,20,0.721,0.275,0.446,Medium Wastage Room
+6,8,3,21,0.23,0.506,0,Green Room
+6,8,3,22,0.304,0.533,0,Green Room
+6,8,3,23,0.203,0.482,0,Green Room
+6,8,4,0,0.063,0.516,0,Green Room
+6,8,4,1,1.107,0.5,0.607,Medium Wastage Room
+6,8,4,2,0.21,0.295,0,Green Room
+6,8,4,3,0.103,0.304,0,Green Room
+6,8,4,4,0.133,0.268,0,Green Room
+6,8,4,5,0.065,0.381,0,Green Room
+6,8,4,6,0.126,0.468,0,Green Room
+6,8,4,7,1.04,0.492,0.548,Medium Wastage Room
+6,8,4,8,0.08,0.361,0,Green Room
+6,8,4,9,0.148,0.297,0,Green Room
+6,8,4,10,0.082,0.239,0,Green Room
+6,8,4,11,0.245,0.249,0,Green Room
+6,8,4,12,1.351,0.519,0.832,High Wastage Room
+6,8,4,13,0.474,0.535,0,Green Room
+6,8,4,14,1.651,0.217,1.435,High Wastage Room
+6,8,4,15,0.199,0.436,0,Green Room
+6,8,4,16,0.211,0.49,0,Green Room
+6,8,4,17,0.085,0.259,0,Green Room
+6,8,4,18,0.155,0.306,0,Green Room
+6,8,4,19,0.518,0.248,0.27,Green Room
+6,8,4,20,0.345,0.493,0,Green Room
+6,8,4,21,0.119,0.516,0,Green Room
+6,8,4,22,0.16,0.242,0,Green Room
+6,8,4,23,1.619,0.472,1.147,High Wastage Room
+6,8,5,0,0.08,0.387,0,Green Room
+6,8,5,1,1.424,0.431,0.992,High Wastage Room
+6,8,5,2,1.09,0.452,0.638,Medium Wastage Room
+6,8,5,3,0.547,0.276,0.271,Green Room
+6,8,5,4,0.094,0.491,0,Green Room
+6,8,5,5,1.066,0.555,0.511,Medium Wastage Room
+6,8,5,6,0.088,0.547,0,Green Room
+6,8,5,7,0.169,0.523,0,Green Room
+6,8,5,8,0.397,0.503,0,Green Room
+6,8,5,9,1.415,0.454,0.961,High Wastage Room
+6,8,5,10,0.213,0.473,0,Green Room
+6,8,5,11,1.397,0.573,0.824,High Wastage Room
+6,8,5,12,0.127,0.402,0,Green Room
+6,8,5,13,0.115,0.386,0,Green Room
+6,8,5,14,0.687,0.429,0.258,Green Room
+6,8,5,15,1.061,0.226,0.835,High Wastage Room
+6,8,5,16,1.288,0.27,1.018,High Wastage Room
+6,8,5,17,0.939,0.588,0.35,Medium Wastage Room
+6,8,5,18,0.241,0.403,0,Green Room
+6,8,5,19,0.882,0.505,0.377,Medium Wastage Room
+6,8,5,20,0.061,0.438,0,Green Room
+6,8,5,21,1.526,0.23,1.295,High Wastage Room
+6,8,5,22,0.637,0.455,0.181,Green Room
+6,8,5,23,0.154,0.55,0,Green Room
+6,8,6,0,0.162,0.281,0,Green Room
+6,8,6,1,0.102,0.599,0,Green Room
+6,8,6,2,1.411,0.434,0.977,High Wastage Room
+6,8,6,3,0.704,0.434,0.27,Green Room
+6,8,6,4,0.815,0.392,0.422,Medium Wastage Room
+6,8,6,5,1.272,0.215,1.057,High Wastage Room
+6,8,6,6,0.09,0.364,0,Green Room
+6,8,6,7,0.844,0.482,0.362,Medium Wastage Room
+6,8,6,8,0.061,0.37,0,Green Room
+6,8,6,9,0.176,0.353,0,Green Room
+6,8,6,10,0.247,0.256,0,Green Room
+6,8,6,11,0.475,0.405,0.07,Green Room
+6,8,6,12,0.176,0.501,0,Green Room
+6,8,6,13,0.148,0.548,0,Green Room
+6,8,6,14,0.226,0.433,0,Green Room
+6,8,6,15,0.055,0.26,0,Green Room
+6,8,6,16,0.13,0.546,0,Green Room
+6,8,6,17,0.4,0.248,0.152,Green Room
+6,8,6,18,0.133,0.397,0,Green Room
+6,8,6,19,0.798,0.491,0.307,Medium Wastage Room
+6,8,6,20,0.102,0.434,0,Green Room
+6,8,6,21,0.244,0.438,0,Green Room
+6,8,6,22,0.106,0.585,0,Green Room
+6,8,6,23,0.079,0.217,0,Green Room
+6,8,7,0,0.559,0.271,0.288,Green Room
+6,8,7,1,0.225,0.229,0,Green Room
+6,8,7,2,0.088,0.561,0,Green Room
+6,8,7,3,0.169,0.377,0,Green Room
+6,8,7,4,0.943,0.495,0.448,Medium Wastage Room
+6,8,7,5,0.139,0.362,0,Green Room
+6,8,7,6,0.664,0.478,0.186,Green Room
+6,8,7,7,1.04,0.492,0.548,Medium Wastage Room
+6,8,7,8,0.223,0.407,0,Green Room
+6,8,7,9,0.199,0.309,0,Green Room
+6,8,7,10,0.511,0.27,0.241,Green Room
+6,8,7,11,0.124,0.52,0,Green Room
+6,8,7,12,0.1,0.493,0,Green Room
+6,8,7,13,0.105,0.265,0,Green Room
+6,8,7,14,1.65,0.321,1.329,High Wastage Room
+6,8,7,15,1.329,0.517,0.812,High Wastage Room
+6,8,7,16,0.842,0.317,0.526,Medium Wastage Room
+6,8,7,17,1.048,0.217,0.831,High Wastage Room
+6,8,7,18,0.909,0.278,0.631,Medium Wastage Room
+6,8,7,19,0.756,0.29,0.467,Medium Wastage Room
+6,8,7,20,0.191,0.317,0,Green Room
+6,8,7,21,0.199,0.35,0,Green Room
+6,8,7,22,0.392,0.419,0,Green Room
+6,8,7,23,0.174,0.341,0,Green Room
+7,8,1,0,0.956,0.53,0.426,Medium Wastage Room
+7,8,1,1,0.071,0.498,0,Green Room
+7,8,1,2,0.917,0.517,0.399,Medium Wastage Room
+7,8,1,3,1.557,0.536,1.021,High Wastage Room
+7,8,1,4,0.146,0.506,0,Green Room
+7,8,1,5,0.182,0.456,0,Green Room
+7,8,1,6,0.241,0.566,0,Green Room
+7,8,1,7,0.23,0.503,0,Green Room
+7,8,1,8,0.247,0.295,0,Green Room
+7,8,1,9,0.104,0.57,0,Green Room
+7,8,1,10,0.461,0.386,0.076,Green Room
+7,8,1,11,0.245,0.434,0,Green Room
+7,8,1,12,0.224,0.475,0,Green Room
+7,8,1,13,0.737,0.564,0.173,Green Room
+7,8,1,14,0.111,0.503,0,Green Room
+7,8,1,15,1.39,0.566,0.824,High Wastage Room
+7,8,1,16,0.138,0.446,0,Green Room
+7,8,1,17,1.001,0.263,0.738,Medium Wastage Room
+7,8,1,18,1.43,0.403,1.027,High Wastage Room
+7,8,1,19,0.239,0.591,0,Green Room
+7,8,1,20,0.083,0.505,0,Green Room
+7,8,1,21,0.394,0.229,0.164,Green Room
+7,8,1,22,0.694,0.451,0.244,Green Room
+7,8,1,23,0.195,0.533,0,Green Room
+7,8,2,0,0.923,0.239,0.685,Medium Wastage Room
+7,8,2,1,0.076,0.416,0,Green Room
+7,8,2,2,1.423,0.309,1.115,High Wastage Room
+7,8,2,3,0.721,0.595,0.125,Green Room
+7,8,2,4,0.524,0.51,0.014,Green Room
+7,8,2,5,0.811,0.521,0.29,Green Room
+7,8,2,6,0.209,0.339,0,Green Room
+7,8,2,7,1.336,0.423,0.913,High Wastage Room
+7,8,2,8,0.186,0.411,0,Green Room
+7,8,2,9,0.605,0.303,0.302,Medium Wastage Room
+7,8,2,10,0.147,0.334,0,Green Room
+7,8,2,11,0.984,0.51,0.474,Medium Wastage Room
+7,8,2,12,0.227,0.281,0,Green Room
+7,8,2,13,0.158,0.474,0,Green Room
+7,8,2,14,0.231,0.334,0,Green Room
+7,8,2,15,0.485,0.528,0,Green Room
+7,8,2,16,0.237,0.381,0,Green Room
+7,8,2,17,0.192,0.241,0,Green Room
+7,8,2,18,0.096,0.235,0,Green Room
+7,8,2,19,0.231,0.546,0,Green Room
+7,8,2,20,0.139,0.477,0,Green Room
+7,8,2,21,0.059,0.542,0,Green Room
+7,8,2,22,0.149,0.316,0,Green Room
+7,8,2,23,0.081,0.447,0,Green Room
+7,8,3,0,1.057,0.354,0.702,Medium Wastage Room
+7,8,3,1,0.196,0.285,0,Green Room
+7,8,3,2,0.101,0.314,0,Green Room
+7,8,3,3,0.127,0.286,0,Green Room
+7,8,3,4,0.11,0.47,0,Green Room
+7,8,3,5,0.128,0.553,0,Green Room
+7,8,3,6,0.054,0.433,0,Green Room
+7,8,3,7,0.121,0.453,0,Green Room
+7,8,3,8,1.438,0.509,0.929,High Wastage Room
+7,8,3,9,0.678,0.296,0.382,Medium Wastage Room
+7,8,3,10,0.806,0.542,0.264,Green Room
+7,8,3,11,0.058,0.283,0,Green Room
+7,8,3,12,1.481,0.354,1.128,High Wastage Room
+7,8,3,13,0.072,0.399,0,Green Room
+7,8,3,14,0.119,0.467,0,Green Room
+7,8,3,15,0.187,0.462,0,Green Room
+7,8,3,16,0.493,0.507,0,Green Room
+7,8,3,17,0.238,0.529,0,Green Room
+7,8,3,18,0.234,0.518,0,Green Room
+7,8,3,19,0.13,0.255,0,Green Room
+7,8,3,20,1.241,0.591,0.65,Medium Wastage Room
+7,8,3,21,0.814,0.334,0.479,Medium Wastage Room
+7,8,3,22,0.983,0.546,0.437,Medium Wastage Room
+7,8,3,23,0.192,0.446,0,Green Room
+7,8,4,0,1.019,0.418,0.601,Medium Wastage Room
+7,8,4,1,1.478,0.263,1.214,High Wastage Room
+7,8,4,2,1.486,0.253,1.233,High Wastage Room
+7,8,4,3,0.211,0.583,0,Green Room
+7,8,4,4,0.055,0.313,0,Green Room
+7,8,4,5,0.128,0.367,0,Green Room
+7,8,4,6,0.102,0.549,0,Green Room
+7,8,4,7,0.221,0.246,0,Green Room
+7,8,4,8,0.442,0.429,0.013,Green Room
+7,8,4,9,0.738,0.423,0.315,Medium Wastage Room
+7,8,4,10,0.729,0.237,0.492,Medium Wastage Room
+7,8,4,11,1.217,0.262,0.955,High Wastage Room
+7,8,4,12,0.453,0.238,0.214,Green Room
+7,8,4,13,0.198,0.519,0,Green Room
+7,8,4,14,0.73,0.464,0.266,Green Room
+7,8,4,15,1.016,0.519,0.497,Medium Wastage Room
+7,8,4,16,1.233,0.362,0.87,High Wastage Room
+7,8,4,17,1.651,0.556,1.095,High Wastage Room
+7,8,4,18,0.218,0.479,0,Green Room
+7,8,4,19,0.139,0.218,0,Green Room
+7,8,4,20,1.417,0.559,0.858,High Wastage Room
+7,8,4,21,0.088,0.473,0,Green Room
+7,8,4,22,0.18,0.24,0,Green Room
+7,8,4,23,1.393,0.539,0.854,High Wastage Room
+7,8,5,0,0.14,0.591,0,Green Room
+7,8,5,1,0.198,0.482,0,Green Room
+7,8,5,2,0.209,0.244,0,Green Room
+7,8,5,3,1.27,0.342,0.928,High Wastage Room
+7,8,5,4,0.094,0.513,0,Green Room
+7,8,5,5,0.342,0.482,0,Green Room
+7,8,5,6,0.11,0.369,0,Green Room
+7,8,5,7,0.147,0.466,0,Green Room
+7,8,5,8,0.152,0.531,0,Green Room
+7,8,5,9,0.549,0.254,0.295,Green Room
+7,8,5,10,0.247,0.596,0,Green Room
+7,8,5,11,0.14,0.209,0,Green Room
+7,8,5,12,0.224,0.406,0,Green Room
+7,8,5,13,0.076,0.352,0,Green Room
+7,8,5,14,1.316,0.5,0.816,High Wastage Room
+7,8,5,15,0.669,0.441,0.228,Green Room
+7,8,5,16,0.088,0.463,0,Green Room
+7,8,5,17,0.167,0.593,0,Green Room
+7,8,5,18,0.224,0.341,0,Green Room
+7,8,5,19,0.096,0.473,0,Green Room
+7,8,5,20,1.165,0.241,0.924,High Wastage Room
+7,8,5,21,1.428,0.503,0.925,High Wastage Room
+7,8,5,22,0.981,0.488,0.492,Medium Wastage Room
+7,8,5,23,0.218,0.38,0,Green Room
+7,8,6,0,0.197,0.405,0,Green Room
+7,8,6,1,0.235,0.521,0,Green Room
+7,8,6,2,0.203,0.214,0,Green Room
+7,8,6,3,0.219,0.599,0,Green Room
+7,8,6,4,0.22,0.275,0,Green Room
+7,8,6,5,1.035,0.271,0.764,Medium Wastage Room
+7,8,6,6,1.45,0.24,1.211,High Wastage Room
+7,8,6,7,0.08,0.302,0,Green Room
+7,8,6,8,0.193,0.484,0,Green Room
+7,8,6,9,0.075,0.313,0,Green Room
+7,8,6,10,0.177,0.226,0,Green Room
+7,8,6,11,0.615,0.543,0.072,Green Room
+7,8,6,12,1.245,0.342,0.902,High Wastage Room
+7,8,6,13,1.38,0.498,0.882,High Wastage Room
+7,8,6,14,1.009,0.525,0.483,Medium Wastage Room
+7,8,6,15,0.197,0.304,0,Green Room
+7,8,6,16,0.065,0.459,0,Green Room
+7,8,6,17,0.103,0.539,0,Green Room
+7,8,6,18,0.181,0.53,0,Green Room
+7,8,6,19,0.122,0.451,0,Green Room
+7,8,6,20,0.822,0.26,0.562,Medium Wastage Room
+7,8,6,21,1.156,0.352,0.804,High Wastage Room
+7,8,6,22,0.074,0.591,0,Green Room
+7,8,6,23,1.598,0.544,1.054,High Wastage Room
+7,8,7,0,1.246,0.33,0.916,High Wastage Room
+7,8,7,1,1.282,0.591,0.691,Medium Wastage Room
+7,8,7,2,0.171,0.239,0,Green Room
+7,8,7,3,0.223,0.494,0,Green Room
+7,8,7,4,0.23,0.512,0,Green Room
+7,8,7,5,0.097,0.322,0,Green Room
+7,8,7,6,0.223,0.508,0,Green Room
+7,8,7,7,0.247,0.473,0,Green Room
+7,8,7,8,0.684,0.291,0.393,Medium Wastage Room
+7,8,7,9,0.665,0.555,0.11,Green Room
+7,8,7,10,0.131,0.456,0,Green Room
+7,8,7,11,1.561,0.256,1.305,High Wastage Room
+7,8,7,12,0.086,0.459,0,Green Room
+7,8,7,13,1.275,0.477,0.798,Medium Wastage Room
+7,8,7,14,0.163,0.541,0,Green Room
+7,8,7,15,0.228,0.272,0,Green Room
+7,8,7,16,0.222,0.356,0,Green Room
+7,8,7,17,0.224,0.319,0,Green Room
+7,8,7,18,0.799,0.335,0.464,Medium Wastage Room
+7,8,7,19,0.073,0.597,0,Green Room
+7,8,7,20,0.098,0.46,0,Green Room
+7,8,7,21,0.235,0.514,0,Green Room
+7,8,7,22,1.055,0.449,0.606,Medium Wastage Room
+7,8,7,23,0.208,0.389,0,Green Room
+8,8,1,0,0.223,0.467,0,Green Room
+8,8,1,1,0.214,0.569,0,Green Room
+8,8,1,2,0.451,0.32,0.13,Green Room
+8,8,1,3,0.067,0.505,0,Green Room
+8,8,1,4,0.069,0.592,0,Green Room
+8,8,1,5,0.078,0.37,0,Green Room
+8,8,1,6,0.124,0.313,0,Green Room
+8,8,1,7,0.658,0.302,0.356,Medium Wastage Room
+8,8,1,8,0.054,0.597,0,Green Room
+8,8,1,9,0.081,0.544,0,Green Room
+8,8,1,10,0.992,0.53,0.462,Medium Wastage Room
+8,8,1,11,1.145,0.391,0.754,Medium Wastage Room
+8,8,1,12,0.777,0.21,0.567,Medium Wastage Room
+8,8,1,13,0.084,0.549,0,Green Room
+8,8,1,14,0.915,0.381,0.534,Medium Wastage Room
+8,8,1,15,0.093,0.443,0,Green Room
+8,8,1,16,0.087,0.482,0,Green Room
+8,8,1,17,0.243,0.342,0,Green Room
+8,8,1,18,0.433,0.522,0,Green Room
+8,8,1,19,0.211,0.37,0,Green Room
+8,8,1,20,0.092,0.464,0,Green Room
+8,8,1,21,0.114,0.319,0,Green Room
+8,8,1,22,0.087,0.365,0,Green Room
+8,8,1,23,0.15,0.301,0,Green Room
+8,8,2,0,1.129,0.491,0.638,Medium Wastage Room
+8,8,2,1,1.054,0.495,0.56,Medium Wastage Room
+8,8,2,2,1.48,0.363,1.117,High Wastage Room
+8,8,2,3,1.292,0.319,0.973,High Wastage Room
+8,8,2,4,0.116,0.549,0,Green Room
+8,8,2,5,0.109,0.485,0,Green Room
+8,8,2,6,1.505,0.409,1.096,High Wastage Room
+8,8,2,7,0.163,0.234,0,Green Room
+8,8,2,8,1.17,0.367,0.803,High Wastage Room
+8,8,2,9,0.082,0.595,0,Green Room
+8,8,2,10,0.81,0.459,0.352,Medium Wastage Room
+8,8,2,11,1.618,0.308,1.31,High Wastage Room
+8,8,2,12,1.049,0.361,0.688,Medium Wastage Room
+8,8,2,13,1.262,0.392,0.87,High Wastage Room
+8,8,2,14,0.096,0.213,0,Green Room
+8,8,2,15,0.472,0.528,0,Green Room
+8,8,2,16,0.647,0.462,0.185,Green Room
+8,8,2,17,1.136,0.39,0.746,Medium Wastage Room
+8,8,2,18,1.03,0.321,0.709,Medium Wastage Room
+8,8,2,19,1.359,0.443,0.916,High Wastage Room
+8,8,2,20,0.173,0.489,0,Green Room
+8,8,2,21,1.064,0.462,0.602,Medium Wastage Room
+8,8,2,22,0.148,0.293,0,Green Room
+8,8,2,23,1.286,0.581,0.705,Medium Wastage Room
+8,8,3,0,0.197,0.571,0,Green Room
+8,8,3,1,0.376,0.554,0,Green Room
+8,8,3,2,0.206,0.22,0,Green Room
+8,8,3,3,0.186,0.516,0,Green Room
+8,8,3,4,0.238,0.336,0,Green Room
+8,8,3,5,1.006,0.533,0.473,Medium Wastage Room
+8,8,3,6,0.077,0.443,0,Green Room
+8,8,3,7,0.209,0.536,0,Green Room
+8,8,3,8,0.226,0.376,0,Green Room
+8,8,3,9,1.266,0.419,0.847,High Wastage Room
+8,8,3,10,0.461,0.473,0,Green Room
+8,8,3,11,0.168,0.497,0,Green Room
+8,8,3,12,1.123,0.448,0.675,Medium Wastage Room
+8,8,3,13,0.22,0.56,0,Green Room
+8,8,3,14,0.547,0.352,0.194,Green Room
+8,8,3,15,0.187,0.282,0,Green Room
+8,8,3,16,0.481,0.448,0.033,Green Room
+8,8,3,17,0.132,0.274,0,Green Room
+8,8,3,18,0.129,0.566,0,Green Room
+8,8,3,19,0.177,0.469,0,Green Room
+8,8,3,20,1.314,0.502,0.812,High Wastage Room
+8,8,3,21,1.424,0.279,1.145,High Wastage Room
+8,8,3,22,0.896,0.218,0.678,Medium Wastage Room
+8,8,3,23,0.639,0.249,0.39,Medium Wastage Room
+8,8,4,0,1.672,0.376,1.296,High Wastage Room
+8,8,4,1,0.246,0.541,0,Green Room
+8,8,4,2,0.44,0.406,0.034,Green Room
+8,8,4,3,0.21,0.318,0,Green Room
+8,8,4,4,0.247,0.59,0,Green Room
+8,8,4,5,0.053,0.247,0,Green Room
+8,8,4,6,1.581,0.389,1.192,High Wastage Room
+8,8,4,7,0.786,0.504,0.282,Green Room
+8,8,4,8,0.345,0.444,0,Green Room
+8,8,4,9,0.155,0.297,0,Green Room
+8,8,4,10,0.111,0.408,0,Green Room
+8,8,4,11,1.396,0.495,0.9,High Wastage Room
+8,8,4,12,0.098,0.417,0,Green Room
+8,8,4,13,1.475,0.251,1.223,High Wastage Room
+8,8,4,14,0.106,0.429,0,Green Room
+8,8,4,15,0.241,0.514,0,Green Room
+8,8,4,16,0.105,0.31,0,Green Room
+8,8,4,17,0.202,0.345,0,Green Room
+8,8,4,18,0.512,0.33,0.182,Green Room
+8,8,4,19,0.225,0.454,0,Green Room
+8,8,4,20,0.075,0.448,0,Green Room
+8,8,4,21,0.09,0.448,0,Green Room
+8,8,4,22,0.103,0.379,0,Green Room
+8,8,4,23,0.106,0.523,0,Green Room
+8,8,5,0,0.099,0.338,0,Green Room
+8,8,5,1,0.103,0.329,0,Green Room
+8,8,5,2,0.069,0.583,0,Green Room
+8,8,5,3,0.178,0.503,0,Green Room
+8,8,5,4,0.657,0.374,0.283,Green Room
+8,8,5,5,0.179,0.426,0,Green Room
+8,8,5,6,0.655,0.395,0.26,Green Room
+8,8,5,7,0.073,0.446,0,Green Room
+8,8,5,8,0.063,0.286,0,Green Room
+8,8,5,9,0.051,0.495,0,Green Room
+8,8,5,10,0.235,0.511,0,Green Room
+8,8,5,11,0.695,0.202,0.493,Medium Wastage Room
+8,8,5,12,0.136,0.42,0,Green Room
+8,8,5,13,0.063,0.53,0,Green Room
+8,8,5,14,0.116,0.373,0,Green Room
+8,8,5,15,0.86,0.463,0.397,Medium Wastage Room
+8,8,5,16,0.549,0.367,0.182,Green Room
+8,8,5,17,1.222,0.304,0.919,High Wastage Room
+8,8,5,18,0.98,0.331,0.65,Medium Wastage Room
+8,8,5,19,0.179,0.523,0,Green Room
+8,8,5,20,0.214,0.561,0,Green Room
+8,8,5,21,0.078,0.309,0,Green Room
+8,8,5,22,0.242,0.509,0,Green Room
+8,8,5,23,0.67,0.432,0.238,Green Room
+8,8,6,0,0.114,0.452,0,Green Room
+8,8,6,1,0.545,0.408,0.138,Green Room
+8,8,6,2,0.238,0.392,0,Green Room
+8,8,6,3,0.153,0.289,0,Green Room
+8,8,6,4,1.189,0.567,0.622,Medium Wastage Room
+8,8,6,5,0.144,0.599,0,Green Room
+8,8,6,6,0.112,0.474,0,Green Room
+8,8,6,7,1.15,0.527,0.623,Medium Wastage Room
+8,8,6,8,0.114,0.585,0,Green Room
+8,8,6,9,0.2,0.568,0,Green Room
+8,8,6,10,0.087,0.338,0,Green Room
+8,8,6,11,0.216,0.327,0,Green Room
+8,8,6,12,0.088,0.371,0,Green Room
+8,8,6,13,0.542,0.589,0,Green Room
+8,8,6,14,0.86,0.3,0.56,Medium Wastage Room
+8,8,6,15,0.742,0.281,0.461,Medium Wastage Room
+8,8,6,16,0.246,0.457,0,Green Room
+8,8,6,17,0.062,0.323,0,Green Room
+8,8,6,18,0.157,0.299,0,Green Room
+8,8,6,19,1.482,0.212,1.269,High Wastage Room
+8,8,6,20,0.176,0.437,0,Green Room
+8,8,6,21,0.16,0.452,0,Green Room
+8,8,6,22,1.558,0.313,1.245,High Wastage Room
+8,8,6,23,0.163,0.412,0,Green Room
+8,8,7,0,0.127,0.304,0,Green Room
+8,8,7,1,1.643,0.228,1.415,High Wastage Room
+8,8,7,2,0.089,0.455,0,Green Room
+8,8,7,3,1.261,0.315,0.946,High Wastage Room
+8,8,7,4,1.53,0.398,1.132,High Wastage Room
+8,8,7,5,0.36,0.313,0.047,Green Room
+8,8,7,6,0.204,0.383,0,Green Room
+8,8,7,7,0.241,0.351,0,Green Room
+8,8,7,8,0.201,0.377,0,Green Room
+8,8,7,9,0.35,0.48,0,Green Room
+8,8,7,10,1.026,0.502,0.524,Medium Wastage Room
+8,8,7,11,0.928,0.596,0.331,Medium Wastage Room
+8,8,7,12,0.541,0.508,0.033,Green Room
+8,8,7,13,0.692,0.387,0.305,Medium Wastage Room
+8,8,7,14,0.554,0.509,0.045,Green Room
+8,8,7,15,0.43,0.307,0.123,Green Room
+8,8,7,16,1.393,0.547,0.846,High Wastage Room
+8,8,7,17,1.322,0.503,0.819,High Wastage Room
+8,8,7,18,0.582,0.316,0.265,Green Room
+8,8,7,19,0.139,0.535,0,Green Room
+8,8,7,20,0.098,0.516,0,Green Room
+8,8,7,21,0.128,0.55,0,Green Room
+8,8,7,22,0.842,0.591,0.252,Green Room
+8,8,7,23,0.14,0.505,0,Green Room
+9,8,1,0,0.229,0.27,0,Green Room
+9,8,1,1,0.179,0.51,0,Green Room
+9,8,1,2,0.136,0.366,0,Green Room
+9,8,1,3,1.148,0.439,0.71,Medium Wastage Room
+9,8,1,4,0.448,0.449,0,Green Room
+9,8,1,5,0.076,0.376,0,Green Room
+9,8,1,6,1.353,0.466,0.887,High Wastage Room
+9,8,1,7,0.204,0.205,0,Green Room
+9,8,1,8,0.232,0.593,0,Green Room
+9,8,1,9,0.737,0.339,0.399,Medium Wastage Room
+9,8,1,10,0.365,0.519,0,Green Room
+9,8,1,11,1.368,0.261,1.107,High Wastage Room
+9,8,1,12,0.208,0.305,0,Green Room
+9,8,1,13,0.083,0.561,0,Green Room
+9,8,1,14,1.268,0.593,0.675,Medium Wastage Room
+9,8,1,15,0.092,0.211,0,Green Room
+9,8,1,16,1.124,0.25,0.875,High Wastage Room
+9,8,1,17,0.235,0.256,0,Green Room
+9,8,1,18,0.177,0.278,0,Green Room
+9,8,1,19,0.159,0.234,0,Green Room
+9,8,1,20,0.169,0.397,0,Green Room
+9,8,1,21,0.713,0.573,0.139,Green Room
+9,8,1,22,0.186,0.488,0,Green Room
+9,8,1,23,1.475,0.503,0.972,High Wastage Room
+9,8,2,0,1.628,0.352,1.276,High Wastage Room
+9,8,2,1,0.856,0.201,0.656,Medium Wastage Room
+9,8,2,2,0.117,0.465,0,Green Room
+9,8,2,3,0.216,0.299,0,Green Room
+9,8,2,4,0.595,0.488,0.108,Green Room
+9,8,2,5,0.08,0.314,0,Green Room
+9,8,2,6,0.199,0.283,0,Green Room
+9,8,2,7,0.146,0.299,0,Green Room
+9,8,2,8,0.102,0.534,0,Green Room
+9,8,2,9,0.134,0.409,0,Green Room
+9,8,2,10,0.942,0.327,0.615,Medium Wastage Room
+9,8,2,11,0.053,0.461,0,Green Room
+9,8,2,12,0.151,0.577,0,Green Room
+9,8,2,13,1.406,0.427,0.98,High Wastage Room
+9,8,2,14,0.81,0.594,0.216,Green Room
+9,8,2,15,1.131,0.302,0.83,High Wastage Room
+9,8,2,16,0.184,0.325,0,Green Room
+9,8,2,17,1.507,0.216,1.291,High Wastage Room
+9,8,2,18,0.249,0.478,0,Green Room
+9,8,2,19,1.394,0.346,1.048,High Wastage Room
+9,8,2,20,0.053,0.589,0,Green Room
+9,8,2,21,0.106,0.59,0,Green Room
+9,8,2,22,0.221,0.271,0,Green Room
+9,8,2,23,0.164,0.538,0,Green Room
+9,8,3,0,0.073,0.449,0,Green Room
+9,8,3,1,0.965,0.317,0.648,Medium Wastage Room
+9,8,3,2,0.828,0.583,0.246,Green Room
+9,8,3,3,0.249,0.461,0,Green Room
+9,8,3,4,1.306,0.416,0.89,High Wastage Room
+9,8,3,5,1.18,0.495,0.685,Medium Wastage Room
+9,8,3,6,1.189,0.501,0.687,Medium Wastage Room
+9,8,3,7,1.601,0.503,1.099,High Wastage Room
+9,8,3,8,0.173,0.311,0,Green Room
+9,8,3,9,1.06,0.482,0.578,Medium Wastage Room
+9,8,3,10,1.042,0.376,0.665,Medium Wastage Room
+9,8,3,11,1.515,0.541,0.974,High Wastage Room
+9,8,3,12,0.185,0.452,0,Green Room
+9,8,3,13,0.214,0.288,0,Green Room
+9,8,3,14,1.417,0.522,0.895,High Wastage Room
+9,8,3,15,0.202,0.59,0,Green Room
+9,8,3,16,0.243,0.228,0.016,Green Room
+9,8,3,17,1.004,0.274,0.729,Medium Wastage Room
+9,8,3,18,0.086,0.204,0,Green Room
+9,8,3,19,0.306,0.243,0.063,Green Room
+9,8,3,20,1.636,0.454,1.182,High Wastage Room
+9,8,3,21,0.241,0.34,0,Green Room
+9,8,3,22,1.19,0.568,0.621,Medium Wastage Room
+9,8,3,23,0.121,0.445,0,Green Room
+9,8,4,0,0.221,0.336,0,Green Room
+9,8,4,1,1,0.44,0.559,Medium Wastage Room
+9,8,4,2,0.123,0.522,0,Green Room
+9,8,4,3,1.511,0.389,1.123,High Wastage Room
+9,8,4,4,0.795,0.398,0.396,Medium Wastage Room
+9,8,4,5,0.105,0.314,0,Green Room
+9,8,4,6,0.877,0.587,0.29,Green Room
+9,8,4,7,0.233,0.561,0,Green Room
+9,8,4,8,1.441,0.597,0.844,High Wastage Room
+9,8,4,9,1.095,0.37,0.725,Medium Wastage Room
+9,8,4,10,1.003,0.293,0.71,Medium Wastage Room
+9,8,4,11,0.139,0.385,0,Green Room
+9,8,4,12,0.243,0.417,0,Green Room
+9,8,4,13,1.05,0.535,0.515,Medium Wastage Room
+9,8,4,14,0.248,0.5,0,Green Room
+9,8,4,15,1.022,0.32,0.703,Medium Wastage Room
+9,8,4,16,0.184,0.514,0,Green Room
+9,8,4,17,0.098,0.204,0,Green Room
+9,8,4,18,1.392,0.533,0.859,High Wastage Room
+9,8,4,19,0.129,0.245,0,Green Room
+9,8,4,20,0.443,0.412,0.031,Green Room
+9,8,4,21,0.241,0.389,0,Green Room
+9,8,4,22,0.097,0.567,0,Green Room
+9,8,4,23,0.188,0.438,0,Green Room
+9,8,5,0,1.306,0.274,1.032,High Wastage Room
+9,8,5,1,0.204,0.351,0,Green Room
+9,8,5,2,0.138,0.321,0,Green Room
+9,8,5,3,0.147,0.212,0,Green Room
+9,8,5,4,0.084,0.456,0,Green Room
+9,8,5,5,0.193,0.301,0,Green Room
+9,8,5,6,0.08,0.584,0,Green Room
+9,8,5,7,0.176,0.282,0,Green Room
+9,8,5,8,1.374,0.501,0.873,High Wastage Room
+9,8,5,9,0.148,0.24,0,Green Room
+9,8,5,10,0.181,0.245,0,Green Room
+9,8,5,11,1.226,0.297,0.929,High Wastage Room
+9,8,5,12,0.197,0.595,0,Green Room
+9,8,5,13,1.536,0.423,1.113,High Wastage Room
+9,8,5,14,0.17,0.402,0,Green Room
+9,8,5,15,0.187,0.318,0,Green Room
+9,8,5,16,0.121,0.424,0,Green Room
+9,8,5,17,0.185,0.358,0,Green Room
+9,8,5,18,0.083,0.501,0,Green Room
+9,8,5,19,0.133,0.56,0,Green Room
+9,8,5,20,0.073,0.373,0,Green Room
+9,8,5,21,1.542,0.523,1.019,High Wastage Room
+9,8,5,22,1.165,0.456,0.709,Medium Wastage Room
+9,8,5,23,1.351,0.451,0.9,High Wastage Room
+9,8,6,0,0.136,0.54,0,Green Room
+9,8,6,1,1.247,0.502,0.745,Medium Wastage Room
+9,8,6,2,1.59,0.598,0.992,High Wastage Room
+9,8,6,3,0.229,0.47,0,Green Room
+9,8,6,4,1.247,0.405,0.842,High Wastage Room
+9,8,6,5,0.832,0.273,0.559,Medium Wastage Room
+9,8,6,6,1.371,0.316,1.056,High Wastage Room
+9,8,6,7,0.173,0.533,0,Green Room
+9,8,6,8,0.118,0.415,0,Green Room
+9,8,6,9,0.148,0.361,0,Green Room
+9,8,6,10,0.065,0.331,0,Green Room
+9,8,6,11,1.13,0.235,0.895,High Wastage Room
+9,8,6,12,1.594,0.59,1.004,High Wastage Room
+9,8,6,13,0.284,0.593,0,Green Room
+9,8,6,14,0.979,0.372,0.608,Medium Wastage Room
+9,8,6,15,1.379,0.407,0.973,High Wastage Room
+9,8,6,16,0.082,0.368,0,Green Room
+9,8,6,17,0.75,0.428,0.322,Medium Wastage Room
+9,8,6,18,0.91,0.289,0.621,Medium Wastage Room
+9,8,6,19,0.523,0.487,0.037,Green Room
+9,8,6,20,1.456,0.262,1.194,High Wastage Room
+9,8,6,21,0.373,0.516,0,Green Room
+9,8,6,22,0.17,0.209,0,Green Room
+9,8,6,23,1.583,0.434,1.149,High Wastage Room
+9,8,7,0,0.051,0.546,0,Green Room
+9,8,7,1,0.215,0.378,0,Green Room
+9,8,7,2,0.847,0.395,0.452,Medium Wastage Room
+9,8,7,3,0.822,0.397,0.425,Medium Wastage Room
+9,8,7,4,0.229,0.448,0,Green Room
+9,8,7,5,0.17,0.446,0,Green Room
+9,8,7,6,0.237,0.439,0,Green Room
+9,8,7,7,0.205,0.484,0,Green Room
+9,8,7,8,0.718,0.375,0.343,Medium Wastage Room
+9,8,7,9,0.104,0.446,0,Green Room
+9,8,7,10,0.135,0.234,0,Green Room
+9,8,7,11,0.793,0.201,0.591,Medium Wastage Room
+9,8,7,12,0.062,0.558,0,Green Room
+9,8,7,13,0.066,0.209,0,Green Room
+9,8,7,14,0.572,0.346,0.226,Green Room
+9,8,7,15,0.058,0.41,0,Green Room
+9,8,7,16,0.073,0.323,0,Green Room
+9,8,7,17,0.221,0.579,0,Green Room
+9,8,7,18,0.181,0.413,0,Green Room
+9,8,7,19,0.06,0.298,0,Green Room
+9,8,7,20,0.152,0.435,0,Green Room
+9,8,7,21,0.165,0.224,0,Green Room
+9,8,7,22,0.22,0.401,0,Green Room
+9,8,7,23,1.415,0.329,1.086,High Wastage Room
+10,8,1,0,0.93,0.256,0.674,Medium Wastage Room
+10,8,1,1,0.873,0.481,0.392,Medium Wastage Room
+10,8,1,2,0.238,0.273,0,Green Room
+10,8,1,3,0.154,0.556,0,Green Room
+10,8,1,4,1.14,0.374,0.766,Medium Wastage Room
+10,8,1,5,1.579,0.402,1.177,High Wastage Room
+10,8,1,6,0.244,0.456,0,Green Room
+10,8,1,7,1.353,0.289,1.064,High Wastage Room
+10,8,1,8,0.188,0.387,0,Green Room
+10,8,1,9,1.028,0.583,0.445,Medium Wastage Room
+10,8,1,10,1.598,0.522,1.076,High Wastage Room
+10,8,1,11,1.24,0.427,0.813,High Wastage Room
+10,8,1,12,0.45,0.586,0,Green Room
+10,8,1,13,0.182,0.22,0,Green Room
+10,8,1,14,0.164,0.543,0,Green Room
+10,8,1,15,1.024,0.487,0.536,Medium Wastage Room
+10,8,1,16,0.06,0.566,0,Green Room
+10,8,1,17,1.465,0.546,0.919,High Wastage Room
+10,8,1,18,0.521,0.433,0.088,Green Room
+10,8,1,19,0.207,0.375,0,Green Room
+10,8,1,20,0.085,0.467,0,Green Room
+10,8,1,21,0.996,0.25,0.745,Medium Wastage Room
+10,8,1,22,0.208,0.326,0,Green Room
+10,8,1,23,0.068,0.407,0,Green Room
+10,8,2,0,0.077,0.531,0,Green Room
+10,8,2,1,1.283,0.354,0.93,High Wastage Room
+10,8,2,2,0.629,0.294,0.335,Medium Wastage Room
+10,8,2,3,0.644,0.384,0.26,Green Room
+10,8,2,4,0.907,0.486,0.421,Medium Wastage Room
+10,8,2,5,0.131,0.472,0,Green Room
+10,8,2,6,0.759,0.588,0.172,Green Room
+10,8,2,7,0.886,0.267,0.619,Medium Wastage Room
+10,8,2,8,0.103,0.487,0,Green Room
+10,8,2,9,0.136,0.209,0,Green Room
+10,8,2,10,0.183,0.49,0,Green Room
+10,8,2,11,0.146,0.585,0,Green Room
+10,8,2,12,0.155,0.262,0,Green Room
+10,8,2,13,0.116,0.283,0,Green Room
+10,8,2,14,0.448,0.302,0.146,Green Room
+10,8,2,15,0.549,0.291,0.258,Green Room
+10,8,2,16,0.244,0.593,0,Green Room
+10,8,2,17,0.203,0.534,0,Green Room
+10,8,2,18,0.085,0.528,0,Green Room
+10,8,2,19,0.514,0.205,0.309,Medium Wastage Room
+10,8,2,20,0.139,0.519,0,Green Room
+10,8,2,21,0.191,0.565,0,Green Room
+10,8,2,22,0.199,0.26,0,Green Room
+10,8,2,23,0.219,0.598,0,Green Room
+10,8,3,0,0.245,0.346,0,Green Room
+10,8,3,1,0.585,0.588,0,Green Room
+10,8,3,2,1.25,0.589,0.661,Medium Wastage Room
+10,8,3,3,0.07,0.341,0,Green Room
+10,8,3,4,0.133,0.273,0,Green Room
+10,8,3,5,1.082,0.543,0.54,Medium Wastage Room
+10,8,3,6,0.232,0.518,0,Green Room
+10,8,3,7,0.156,0.28,0,Green Room
+10,8,3,8,0.176,0.252,0,Green Room
+10,8,3,9,1.393,0.415,0.979,High Wastage Room
+10,8,3,10,0.093,0.277,0,Green Room
+10,8,3,11,0.118,0.431,0,Green Room
+10,8,3,12,0.056,0.304,0,Green Room
+10,8,3,13,1.344,0.496,0.848,High Wastage Room
+10,8,3,14,0.639,0.392,0.248,Green Room
+10,8,3,15,0.234,0.571,0,Green Room
+10,8,3,16,1.471,0.323,1.148,High Wastage Room
+10,8,3,17,0.226,0.204,0.022,Green Room
+10,8,3,18,0.157,0.508,0,Green Room
+10,8,3,19,0.064,0.385,0,Green Room
+10,8,3,20,0.073,0.279,0,Green Room
+10,8,3,21,0.12,0.33,0,Green Room
+10,8,3,22,0.226,0.261,0,Green Room
+10,8,3,23,1.358,0.289,1.069,High Wastage Room
+10,8,4,0,0.067,0.463,0,Green Room
+10,8,4,1,1.591,0.362,1.229,High Wastage Room
+10,8,4,2,0.568,0.313,0.254,Green Room
+10,8,4,3,0.212,0.587,0,Green Room
+10,8,4,4,0.063,0.507,0,Green Room
+10,8,4,5,0.156,0.491,0,Green Room
+10,8,4,6,0.249,0.293,0,Green Room
+10,8,4,7,0.201,0.352,0,Green Room
+10,8,4,8,0.169,0.224,0,Green Room
+10,8,4,9,0.133,0.398,0,Green Room
+10,8,4,10,0.093,0.46,0,Green Room
+10,8,4,11,0.215,0.209,0.007,Green Room
+10,8,4,12,1.56,0.473,1.087,High Wastage Room
+10,8,4,13,0.088,0.468,0,Green Room
+10,8,4,14,0.159,0.544,0,Green Room
+10,8,4,15,0.866,0.212,0.653,Medium Wastage Room
+10,8,4,16,1.188,0.511,0.677,Medium Wastage Room
+10,8,4,17,0.157,0.233,0,Green Room
+10,8,4,18,0.071,0.255,0,Green Room
+10,8,4,19,1.304,0.43,0.874,High Wastage Room
+10,8,4,20,0.172,0.277,0,Green Room
+10,8,4,21,0.823,0.52,0.303,Medium Wastage Room
+10,8,4,22,0.228,0.516,0,Green Room
+10,8,4,23,0.217,0.438,0,Green Room
+10,8,5,0,0.702,0.233,0.469,Medium Wastage Room
+10,8,5,1,1.504,0.373,1.131,High Wastage Room
+10,8,5,2,1.393,0.575,0.818,High Wastage Room
+10,8,5,3,0.513,0.312,0.201,Green Room
+10,8,5,4,1.06,0.581,0.479,Medium Wastage Room
+10,8,5,5,0.077,0.393,0,Green Room
+10,8,5,6,0.083,0.473,0,Green Room
+10,8,5,7,0.138,0.439,0,Green Room
+10,8,5,8,0.104,0.249,0,Green Room
+10,8,5,9,0.138,0.6,0,Green Room
+10,8,5,10,1.265,0.434,0.831,High Wastage Room
+10,8,5,11,0.129,0.224,0,Green Room
+10,8,5,12,1.66,0.533,1.127,High Wastage Room
+10,8,5,13,0.233,0.416,0,Green Room
+10,8,5,14,0.084,0.45,0,Green Room
+10,8,5,15,0.075,0.264,0,Green Room
+10,8,5,16,0.12,0.402,0,Green Room
+10,8,5,17,1.61,0.467,1.143,High Wastage Room
+10,8,5,18,0.188,0.451,0,Green Room
+10,8,5,19,0.105,0.414,0,Green Room
+10,8,5,20,0.173,0.558,0,Green Room
+10,8,5,21,0.178,0.527,0,Green Room
+10,8,5,22,0.076,0.359,0,Green Room
+10,8,5,23,0.233,0.476,0,Green Room
+10,8,6,0,0.611,0.251,0.36,Medium Wastage Room
+10,8,6,1,0.786,0.535,0.25,Green Room
+10,8,6,2,1.112,0.504,0.608,Medium Wastage Room
+10,8,6,3,0.08,0.584,0,Green Room
+10,8,6,4,1.035,0.46,0.575,Medium Wastage Room
+10,8,6,5,0.348,0.364,0,Green Room
+10,8,6,6,0.195,0.457,0,Green Room
+10,8,6,7,1.286,0.546,0.74,Medium Wastage Room
+10,8,6,8,1.293,0.599,0.693,Medium Wastage Room
+10,8,6,9,0.176,0.386,0,Green Room
+10,8,6,10,0.127,0.589,0,Green Room
+10,8,6,11,0.18,0.479,0,Green Room
+10,8,6,12,0.144,0.222,0,Green Room
+10,8,6,13,0.971,0.241,0.73,Medium Wastage Room
+10,8,6,14,0.054,0.443,0,Green Room
+10,8,6,15,0.516,0.57,0,Green Room
+10,8,6,16,0.498,0.288,0.209,Green Room
+10,8,6,17,0.118,0.492,0,Green Room
+10,8,6,18,0.215,0.224,0,Green Room
+10,8,6,19,0.627,0.401,0.226,Green Room
+10,8,6,20,1.492,0.388,1.104,High Wastage Room
+10,8,6,21,0.154,0.38,0,Green Room
+10,8,6,22,0.85,0.509,0.341,Medium Wastage Room
+10,8,6,23,0.149,0.502,0,Green Room
+10,8,7,0,0.242,0.382,0,Green Room
+10,8,7,1,0.236,0.409,0,Green Room
+10,8,7,2,0.797,0.202,0.596,Medium Wastage Room
+10,8,7,3,1.131,0.296,0.835,High Wastage Room
+10,8,7,4,0.06,0.567,0,Green Room
+10,8,7,5,0.113,0.251,0,Green Room
+10,8,7,6,0.069,0.257,0,Green Room
+10,8,7,7,0.649,0.549,0.1,Green Room
+10,8,7,8,0.186,0.461,0,Green Room
+10,8,7,9,0.473,0.598,0,Green Room
+10,8,7,10,0.091,0.433,0,Green Room
+10,8,7,11,0.214,0.388,0,Green Room
+10,8,7,12,1.109,0.444,0.665,Medium Wastage Room
+10,8,7,13,0.131,0.253,0,Green Room
+10,8,7,14,0.091,0.461,0,Green Room
+10,8,7,15,1.514,0.449,1.065,High Wastage Room
+10,8,7,16,0.134,0.393,0,Green Room
+10,8,7,17,0.191,0.379,0,Green Room
+10,8,7,18,0.192,0.377,0,Green Room
+10,8,7,19,0.194,0.369,0,Green Room
+10,8,7,20,0.112,0.385,0,Green Room
+10,8,7,21,0.142,0.357,0,Green Room
+10,8,7,22,1.131,0.28,0.851,High Wastage Room
+10,8,7,23,0.584,0.398,0.186,Green Room
+11,8,1,0,1.353,0.368,0.986,High Wastage Room
+11,8,1,1,0.111,0.362,0,Green Room
+11,8,1,2,0.149,0.326,0,Green Room
+11,8,1,3,1.148,0.219,0.929,High Wastage Room
+11,8,1,4,0.126,0.332,0,Green Room
+11,8,1,5,0.122,0.466,0,Green Room
+11,8,1,6,0.092,0.288,0,Green Room
+11,8,1,7,0.173,0.58,0,Green Room
+11,8,1,8,0.119,0.492,0,Green Room
+11,8,1,9,0.1,0.408,0,Green Room
+11,8,1,10,0.156,0.411,0,Green Room
+11,8,1,11,0.171,0.534,0,Green Room
+11,8,1,12,0.16,0.23,0,Green Room
+11,8,1,13,0.539,0.315,0.224,Green Room
+11,8,1,14,0.406,0.448,0,Green Room
+11,8,1,15,0.17,0.212,0,Green Room
+11,8,1,16,0.121,0.268,0,Green Room
+11,8,1,17,0.213,0.544,0,Green Room
+11,8,1,18,0.229,0.432,0,Green Room
+11,8,1,19,0.081,0.326,0,Green Room
+11,8,1,20,0.564,0.493,0.071,Green Room
+11,8,1,21,0.234,0.324,0,Green Room
+11,8,1,22,0.24,0.402,0,Green Room
+11,8,1,23,1.444,0.47,0.974,High Wastage Room
+11,8,2,0,0.141,0.405,0,Green Room
+11,8,2,1,0.108,0.497,0,Green Room
+11,8,2,2,1.276,0.339,0.937,High Wastage Room
+11,8,2,3,0.746,0.292,0.454,Medium Wastage Room
+11,8,2,4,0.112,0.522,0,Green Room
+11,8,2,5,0.917,0.409,0.508,Medium Wastage Room
+11,8,2,6,0.445,0.368,0.078,Green Room
+11,8,2,7,0.221,0.383,0,Green Room
+11,8,2,8,0.231,0.552,0,Green Room
+11,8,2,9,0.2,0.244,0,Green Room
+11,8,2,10,0.385,0.249,0.136,Green Room
+11,8,2,11,0.091,0.327,0,Green Room
+11,8,2,12,0.131,0.575,0,Green Room
+11,8,2,13,0.372,0.553,0,Green Room
+11,8,2,14,0.12,0.583,0,Green Room
+11,8,2,15,0.157,0.391,0,Green Room
+11,8,2,16,0.101,0.545,0,Green Room
+11,8,2,17,0.525,0.432,0.093,Green Room
+11,8,2,18,0.128,0.344,0,Green Room
+11,8,2,19,0.215,0.495,0,Green Room
+11,8,2,20,0.817,0.418,0.399,Medium Wastage Room
+11,8,2,21,1.178,0.45,0.727,Medium Wastage Room
+11,8,2,22,1.476,0.434,1.042,High Wastage Room
+11,8,2,23,0.051,0.455,0,Green Room
+11,8,3,0,0.132,0.291,0,Green Room
+11,8,3,1,0.111,0.479,0,Green Room
+11,8,3,2,0.186,0.392,0,Green Room
+11,8,3,3,0.215,0.404,0,Green Room
+11,8,3,4,0.228,0.224,0.005,Green Room
+11,8,3,5,0.201,0.216,0,Green Room
+11,8,3,6,0.18,0.317,0,Green Room
+11,8,3,7,0.056,0.591,0,Green Room
+11,8,3,8,0.205,0.455,0,Green Room
+11,8,3,9,0.103,0.428,0,Green Room
+11,8,3,10,0.197,0.368,0,Green Room
+11,8,3,11,0.586,0.47,0.115,Green Room
+11,8,3,12,0.204,0.489,0,Green Room
+11,8,3,13,0.682,0.517,0.165,Green Room
+11,8,3,14,0.677,0.303,0.374,Medium Wastage Room
+11,8,3,15,0.077,0.379,0,Green Room
+11,8,3,16,0.137,0.345,0,Green Room
+11,8,3,17,1.236,0.525,0.711,Medium Wastage Room
+11,8,3,18,1.012,0.453,0.559,Medium Wastage Room
+11,8,3,19,0.121,0.24,0,Green Room
+11,8,3,20,0.837,0.424,0.413,Medium Wastage Room
+11,8,3,21,0.127,0.282,0,Green Room
+11,8,3,22,0.187,0.3,0,Green Room
+11,8,3,23,0.097,0.244,0,Green Room
+11,8,4,0,0.109,0.369,0,Green Room
+11,8,4,1,0.064,0.556,0,Green Room
+11,8,4,2,0.188,0.556,0,Green Room
+11,8,4,3,0.185,0.418,0,Green Room
+11,8,4,4,0.489,0.203,0.286,Green Room
+11,8,4,5,0.228,0.396,0,Green Room
+11,8,4,6,0.068,0.489,0,Green Room
+11,8,4,7,1.588,0.315,1.273,High Wastage Room
+11,8,4,8,1.354,0.308,1.046,High Wastage Room
+11,8,4,9,0.727,0.203,0.524,Medium Wastage Room
+11,8,4,10,0.145,0.512,0,Green Room
+11,8,4,11,0.057,0.209,0,Green Room
+11,8,4,12,0.218,0.299,0,Green Room
+11,8,4,13,1.707,0.33,1.377,High Wastage Room
+11,8,4,14,0.624,0.446,0.179,Green Room
+11,8,4,15,1.587,0.52,1.067,High Wastage Room
+11,8,4,16,0.236,0.49,0,Green Room
+11,8,4,17,0.186,0.431,0,Green Room
+11,8,4,18,0.628,0.215,0.412,Medium Wastage Room
+11,8,4,19,0.124,0.214,0,Green Room
+11,8,4,20,0.701,0.543,0.158,Green Room
+11,8,4,21,0.978,0.562,0.416,Medium Wastage Room
+11,8,4,22,0.187,0.484,0,Green Room
+11,8,4,23,0.089,0.218,0,Green Room
+11,8,5,0,0.125,0.332,0,Green Room
+11,8,5,1,1.33,0.348,0.983,High Wastage Room
+11,8,5,2,0.19,0.393,0,Green Room
+11,8,5,3,0.493,0.284,0.209,Green Room
+11,8,5,4,0.064,0.453,0,Green Room
+11,8,5,5,0.56,0.249,0.311,Medium Wastage Room
+11,8,5,6,1.314,0.385,0.93,High Wastage Room
+11,8,5,7,0.775,0.264,0.512,Medium Wastage Room
+11,8,5,8,0.227,0.236,0,Green Room
+11,8,5,9,0.111,0.283,0,Green Room
+11,8,5,10,0.078,0.208,0,Green Room
+11,8,5,11,0.969,0.242,0.727,Medium Wastage Room
+11,8,5,12,0.163,0.393,0,Green Room
+11,8,5,13,0.076,0.533,0,Green Room
+11,8,5,14,0.198,0.433,0,Green Room
+11,8,5,15,0.759,0.22,0.539,Medium Wastage Room
+11,8,5,16,0.966,0.212,0.754,Medium Wastage Room
+11,8,5,17,0.953,0.56,0.394,Medium Wastage Room
+11,8,5,18,0.195,0.224,0,Green Room
+11,8,5,19,0.139,0.429,0,Green Room
+11,8,5,20,0.927,0.511,0.416,Medium Wastage Room
+11,8,5,21,0.147,0.369,0,Green Room
+11,8,5,22,0.217,0.426,0,Green Room
+11,8,5,23,0.209,0.418,0,Green Room
+11,8,6,0,0.165,0.538,0,Green Room
+11,8,6,1,0.054,0.439,0,Green Room
+11,8,6,2,0.177,0.387,0,Green Room
+11,8,6,3,0.055,0.557,0,Green Room
+11,8,6,4,0.055,0.348,0,Green Room
+11,8,6,5,0.498,0.402,0.095,Green Room
+11,8,6,6,0.118,0.297,0,Green Room
+11,8,6,7,0.075,0.595,0,Green Room
+11,8,6,8,0.904,0.317,0.587,Medium Wastage Room
+11,8,6,9,0.087,0.302,0,Green Room
+11,8,6,10,0.224,0.47,0,Green Room
+11,8,6,11,1.576,0.43,1.146,High Wastage Room
+11,8,6,12,0.6,0.569,0.031,Green Room
+11,8,6,13,0.226,0.435,0,Green Room
+11,8,6,14,1.421,0.579,0.842,High Wastage Room
+11,8,6,15,0.996,0.219,0.777,Medium Wastage Room
+11,8,6,16,0.095,0.494,0,Green Room
+11,8,6,17,1.287,0.265,1.022,High Wastage Room
+11,8,6,18,0.246,0.412,0,Green Room
+11,8,6,19,1.565,0.421,1.143,High Wastage Room
+11,8,6,20,0.087,0.331,0,Green Room
+11,8,6,21,0.884,0.53,0.354,Medium Wastage Room
+11,8,6,22,0.157,0.538,0,Green Room
+11,8,6,23,1.408,0.427,0.981,High Wastage Room
+11,8,7,0,0.168,0.519,0,Green Room
+11,8,7,1,0.227,0.304,0,Green Room
+11,8,7,2,0.11,0.215,0,Green Room
+11,8,7,3,0.113,0.542,0,Green Room
+11,8,7,4,0.163,0.395,0,Green Room
+11,8,7,5,0.195,0.22,0,Green Room
+11,8,7,6,0.086,0.333,0,Green Room
+11,8,7,7,0.249,0.202,0.047,Green Room
+11,8,7,8,0.116,0.53,0,Green Room
+11,8,7,9,1.005,0.481,0.524,Medium Wastage Room
+11,8,7,10,0.168,0.352,0,Green Room
+11,8,7,11,0.405,0.55,0,Green Room
+11,8,7,12,1.648,0.558,1.091,High Wastage Room
+11,8,7,13,0.097,0.473,0,Green Room
+11,8,7,14,1.109,0.242,0.867,High Wastage Room
+11,8,7,15,0.231,0.512,0,Green Room
+11,8,7,16,0.062,0.322,0,Green Room
+11,8,7,17,1.651,0.568,1.084,High Wastage Room
+11,8,7,18,1.047,0.23,0.817,High Wastage Room
+11,8,7,19,1.414,0.273,1.141,High Wastage Room
+11,8,7,20,0.096,0.21,0,Green Room
+11,8,7,21,1.485,0.527,0.958,High Wastage Room
+11,8,7,22,0.077,0.257,0,Green Room
+11,8,7,23,0.132,0.446,0,Green Room
+12,8,1,0,1.252,0.223,1.029,High Wastage Room
+12,8,1,1,1.464,0.302,1.161,High Wastage Room
+12,8,1,2,0.2,0.246,0,Green Room
+12,8,1,3,0.573,0.333,0.24,Green Room
+12,8,1,4,0.464,0.458,0.006,Green Room
+12,8,1,5,0.216,0.247,0,Green Room
+12,8,1,6,0.155,0.221,0,Green Room
+12,8,1,7,0.727,0.42,0.307,Medium Wastage Room
+12,8,1,8,0.444,0.472,0,Green Room
+12,8,1,9,0.073,0.478,0,Green Room
+12,8,1,10,0.289,0.564,0,Green Room
+12,8,1,11,0.166,0.495,0,Green Room
+12,8,1,12,0.088,0.37,0,Green Room
+12,8,1,13,0.176,0.595,0,Green Room
+12,8,1,14,1.523,0.46,1.063,High Wastage Room
+12,8,1,15,0.18,0.388,0,Green Room
+12,8,1,16,0.183,0.452,0,Green Room
+12,8,1,17,1.076,0.378,0.698,Medium Wastage Room
+12,8,1,18,0.842,0.583,0.259,Green Room
+12,8,1,19,0.172,0.285,0,Green Room
+12,8,1,20,0.093,0.465,0,Green Room
+12,8,1,21,0.179,0.215,0,Green Room
+12,8,1,22,0.245,0.213,0.032,Green Room
+12,8,1,23,1.433,0.458,0.975,High Wastage Room
+12,8,2,0,0.937,0.56,0.376,Medium Wastage Room
+12,8,2,1,1.213,0.539,0.674,Medium Wastage Room
+12,8,2,2,0.894,0.248,0.646,Medium Wastage Room
+12,8,2,3,0.234,0.509,0,Green Room
+12,8,2,4,1.227,0.499,0.728,Medium Wastage Room
+12,8,2,5,0.058,0.575,0,Green Room
+12,8,2,6,0.228,0.391,0,Green Room
+12,8,2,7,0.757,0.281,0.476,Medium Wastage Room
+12,8,2,8,0.068,0.447,0,Green Room
+12,8,2,9,1.357,0.555,0.802,High Wastage Room
+12,8,2,10,0.622,0.212,0.41,Medium Wastage Room
+12,8,2,11,0.07,0.239,0,Green Room
+12,8,2,12,0.336,0.252,0.083,Green Room
+12,8,2,13,1.511,0.322,1.189,High Wastage Room
+12,8,2,14,0.057,0.242,0,Green Room
+12,8,2,15,0.947,0.517,0.43,Medium Wastage Room
+12,8,2,16,0.094,0.399,0,Green Room
+12,8,2,17,0.182,0.415,0,Green Room
+12,8,2,18,0.221,0.511,0,Green Room
+12,8,2,19,0.078,0.388,0,Green Room
+12,8,2,20,0.195,0.348,0,Green Room
+12,8,2,21,1.2,0.549,0.651,Medium Wastage Room
+12,8,2,22,0.587,0.397,0.19,Green Room
+12,8,2,23,0.198,0.414,0,Green Room
+12,8,3,0,0.166,0.256,0,Green Room
+12,8,3,1,0.086,0.352,0,Green Room
+12,8,3,2,0.676,0.564,0.113,Green Room
+12,8,3,3,0.557,0.481,0.077,Green Room
+12,8,3,4,0.201,0.537,0,Green Room
+12,8,3,5,0.085,0.369,0,Green Room
+12,8,3,6,0.235,0.355,0,Green Room
+12,8,3,7,0.23,0.271,0,Green Room
+12,8,3,8,0.135,0.306,0,Green Room
+12,8,3,9,0.372,0.287,0.086,Green Room
+12,8,3,10,0.725,0.428,0.297,Green Room
+12,8,3,11,0.237,0.563,0,Green Room
+12,8,3,12,0.12,0.247,0,Green Room
+12,8,3,13,0.784,0.462,0.322,Medium Wastage Room
+12,8,3,14,0.087,0.25,0,Green Room
+12,8,3,15,0.576,0.566,0.01,Green Room
+12,8,3,16,0.166,0.363,0,Green Room
+12,8,3,17,0.574,0.35,0.224,Green Room
+12,8,3,18,0.243,0.34,0,Green Room
+12,8,3,19,1.587,0.307,1.28,High Wastage Room
+12,8,3,20,0.525,0.474,0.051,Green Room
+12,8,3,21,0.723,0.519,0.204,Green Room
+12,8,3,22,0.242,0.203,0.039,Green Room
+12,8,3,23,0.14,0.21,0,Green Room
+12,8,4,0,0.069,0.31,0,Green Room
+12,8,4,1,1.088,0.29,0.798,Medium Wastage Room
+12,8,4,2,0.106,0.517,0,Green Room
+12,8,4,3,0.103,0.462,0,Green Room
+12,8,4,4,0.202,0.371,0,Green Room
+12,8,4,5,0.354,0.423,0,Green Room
+12,8,4,6,1.046,0.283,0.763,Medium Wastage Room
+12,8,4,7,0.35,0.342,0.008,Green Room
+12,8,4,8,0.169,0.37,0,Green Room
+12,8,4,9,0.718,0.207,0.512,Medium Wastage Room
+12,8,4,10,0.073,0.391,0,Green Room
+12,8,4,11,0.061,0.283,0,Green Room
+12,8,4,12,1.45,0.395,1.055,High Wastage Room
+12,8,4,13,0.196,0.556,0,Green Room
+12,8,4,14,0.122,0.367,0,Green Room
+12,8,4,15,1.443,0.343,1.1,High Wastage Room
+12,8,4,16,0.061,0.303,0,Green Room
+12,8,4,17,1.18,0.4,0.779,Medium Wastage Room
+12,8,4,18,0.231,0.306,0,Green Room
+12,8,4,19,0.764,0.487,0.276,Green Room
+12,8,4,20,0.098,0.58,0,Green Room
+12,8,4,21,0.145,0.484,0,Green Room
+12,8,4,22,0.172,0.232,0,Green Room
+12,8,4,23,0.151,0.456,0,Green Room
+12,8,5,0,0.239,0.374,0,Green Room
+12,8,5,1,1.457,0.434,1.023,High Wastage Room
+12,8,5,2,0.217,0.544,0,Green Room
+12,8,5,3,0.187,0.533,0,Green Room
+12,8,5,4,0.223,0.324,0,Green Room
+12,8,5,5,0.434,0.424,0.01,Green Room
+12,8,5,6,0.102,0.51,0,Green Room
+12,8,5,7,0.627,0.26,0.367,Medium Wastage Room
+12,8,5,8,0.202,0.369,0,Green Room
+12,8,5,9,0.183,0.325,0,Green Room
+12,8,5,10,0.11,0.474,0,Green Room
+12,8,5,11,0.24,0.59,0,Green Room
+12,8,5,12,1.2,0.549,0.65,Medium Wastage Room
+12,8,5,13,0.249,0.484,0,Green Room
+12,8,5,14,0.377,0.21,0.166,Green Room
+12,8,5,15,0.133,0.476,0,Green Room
+12,8,5,16,0.451,0.543,0,Green Room
+12,8,5,17,1.357,0.418,0.938,High Wastage Room
+12,8,5,18,0.071,0.526,0,Green Room
+12,8,5,19,1.461,0.338,1.123,High Wastage Room
+12,8,5,20,0.178,0.441,0,Green Room
+12,8,5,21,0.175,0.201,0,Green Room
+12,8,5,22,0.214,0.395,0,Green Room
+12,8,5,23,1.053,0.226,0.827,High Wastage Room
+12,8,6,0,1.702,0.22,1.481,High Wastage Room
+12,8,6,1,0.183,0.536,0,Green Room
+12,8,6,2,0.6,0.269,0.331,Medium Wastage Room
+12,8,6,3,0.218,0.338,0,Green Room
+12,8,6,4,0.159,0.247,0,Green Room
+12,8,6,5,0.219,0.479,0,Green Room
+12,8,6,6,0.305,0.424,0,Green Room
+12,8,6,7,0.083,0.418,0,Green Room
+12,8,6,8,0.197,0.359,0,Green Room
+12,8,6,9,0.143,0.393,0,Green Room
+12,8,6,10,1.553,0.337,1.216,High Wastage Room
+12,8,6,11,1.368,0.382,0.986,High Wastage Room
+12,8,6,12,0.62,0.542,0.078,Green Room
+12,8,6,13,0.22,0.224,0,Green Room
+12,8,6,14,0.898,0.546,0.352,Medium Wastage Room
+12,8,6,15,1.291,0.572,0.72,Medium Wastage Room
+12,8,6,16,0.061,0.404,0,Green Room
+12,8,6,17,0.973,0.294,0.679,Medium Wastage Room
+12,8,6,18,1.199,0.42,0.778,Medium Wastage Room
+12,8,6,19,0.196,0.595,0,Green Room
+12,8,6,20,0.642,0.205,0.438,Medium Wastage Room
+12,8,6,21,0.229,0.25,0,Green Room
+12,8,6,22,1.378,0.34,1.038,High Wastage Room
+12,8,6,23,0.159,0.38,0,Green Room
+12,8,7,0,0.075,0.361,0,Green Room
+12,8,7,1,0.244,0.35,0,Green Room
+12,8,7,2,0.243,0.215,0.028,Green Room
+12,8,7,3,0.051,0.276,0,Green Room
+12,8,7,4,1.58,0.244,1.336,High Wastage Room
+12,8,7,5,0.689,0.587,0.102,Green Room
+12,8,7,6,0.123,0.521,0,Green Room
+12,8,7,7,0.241,0.33,0,Green Room
+12,8,7,8,0.195,0.552,0,Green Room
+12,8,7,9,0.057,0.517,0,Green Room
+12,8,7,10,0.055,0.427,0,Green Room
+12,8,7,11,0.236,0.449,0,Green Room
+12,8,7,12,0.166,0.595,0,Green Room
+12,8,7,13,0.121,0.253,0,Green Room
+12,8,7,14,0.195,0.353,0,Green Room
+12,8,7,15,0.968,0.255,0.713,Medium Wastage Room
+12,8,7,16,0.074,0.514,0,Green Room
+12,8,7,17,0.134,0.47,0,Green Room
+12,8,7,18,0.791,0.363,0.428,Medium Wastage Room
+12,8,7,19,1.461,0.443,1.018,High Wastage Room
+12,8,7,20,0.093,0.314,0,Green Room
+12,8,7,21,0.149,0.332,0,Green Room
+12,8,7,22,0.182,0.476,0,Green Room
+12,8,7,23,1.53,0.435,1.095,High Wastage Room
+13,8,1,0,0.122,0.418,0,Green Room
+13,8,1,1,0.165,0.518,0,Green Room
+13,8,1,2,0.141,0.372,0,Green Room
+13,8,1,3,0.091,0.318,0,Green Room
+13,8,1,4,1.371,0.484,0.888,High Wastage Room
+13,8,1,5,0.184,0.254,0,Green Room
+13,8,1,6,0.181,0.394,0,Green Room
+13,8,1,7,0.166,0.599,0,Green Room
+13,8,1,8,0.49,0.444,0.046,Green Room
+13,8,1,9,1.107,0.598,0.509,Medium Wastage Room
+13,8,1,10,0.509,0.339,0.17,Green Room
+13,8,1,11,0.057,0.35,0,Green Room
+13,8,1,12,1.569,0.529,1.04,High Wastage Room
+13,8,1,13,0.066,0.313,0,Green Room
+13,8,1,14,0.913,0.546,0.367,Medium Wastage Room
+13,8,1,15,1.4,0.42,0.98,High Wastage Room
+13,8,1,16,0.11,0.589,0,Green Room
+13,8,1,17,0.183,0.223,0,Green Room
+13,8,1,18,0.083,0.352,0,Green Room
+13,8,1,19,0.471,0.386,0.085,Green Room
+13,8,1,20,0.161,0.509,0,Green Room
+13,8,1,21,0.93,0.207,0.723,Medium Wastage Room
+13,8,1,22,1.095,0.599,0.496,Medium Wastage Room
+13,8,1,23,0.908,0.392,0.516,Medium Wastage Room
+13,8,2,0,0.205,0.418,0,Green Room
+13,8,2,1,0.98,0.335,0.645,Medium Wastage Room
+13,8,2,2,0.729,0.352,0.378,Medium Wastage Room
+13,8,2,3,0.057,0.528,0,Green Room
+13,8,2,4,0.454,0.264,0.189,Green Room
+13,8,2,5,0.133,0.282,0,Green Room
+13,8,2,6,0.216,0.515,0,Green Room
+13,8,2,7,0.102,0.313,0,Green Room
+13,8,2,8,0.241,0.508,0,Green Room
+13,8,2,9,0.153,0.579,0,Green Room
+13,8,2,10,1.243,0.261,0.982,High Wastage Room
+13,8,2,11,0.165,0.558,0,Green Room
+13,8,2,12,0.226,0.342,0,Green Room
+13,8,2,13,0.214,0.229,0,Green Room
+13,8,2,14,0.083,0.584,0,Green Room
+13,8,2,15,0.368,0.33,0.038,Green Room
+13,8,2,16,0.182,0.259,0,Green Room
+13,8,2,17,0.554,0.24,0.314,Medium Wastage Room
+13,8,2,18,1.304,0.274,1.03,High Wastage Room
+13,8,2,19,0.096,0.561,0,Green Room
+13,8,2,20,0.243,0.226,0.017,Green Room
+13,8,2,21,0.21,0.558,0,Green Room
+13,8,2,22,1.391,0.317,1.074,High Wastage Room
+13,8,2,23,1.713,0.25,1.464,High Wastage Room
+13,8,3,0,1.554,0.232,1.321,High Wastage Room
+13,8,3,1,0.154,0.202,0,Green Room
+13,8,3,2,0.11,0.465,0,Green Room
+13,8,3,3,0.535,0.523,0.012,Green Room
+13,8,3,4,1.087,0.573,0.514,Medium Wastage Room
+13,8,3,5,1.305,0.443,0.862,High Wastage Room
+13,8,3,6,0.184,0.417,0,Green Room
+13,8,3,7,0.059,0.235,0,Green Room
+13,8,3,8,0.783,0.213,0.57,Medium Wastage Room
+13,8,3,9,0.078,0.365,0,Green Room
+13,8,3,10,0.174,0.416,0,Green Room
+13,8,3,11,0.087,0.565,0,Green Room
+13,8,3,12,0.118,0.553,0,Green Room
+13,8,3,13,0.192,0.43,0,Green Room
+13,8,3,14,0.164,0.393,0,Green Room
+13,8,3,15,0.096,0.464,0,Green Room
+13,8,3,16,0.222,0.534,0,Green Room
+13,8,3,17,0.083,0.543,0,Green Room
+13,8,3,18,0.167,0.308,0,Green Room
+13,8,3,19,0.235,0.493,0,Green Room
+13,8,3,20,0.162,0.488,0,Green Room
+13,8,3,21,0.433,0.296,0.137,Green Room
+13,8,3,22,0.594,0.428,0.166,Green Room
+13,8,3,23,0.062,0.546,0,Green Room
+13,8,4,0,1.08,0.294,0.786,Medium Wastage Room
+13,8,4,1,0.16,0.268,0,Green Room
+13,8,4,2,1.382,0.503,0.879,High Wastage Room
+13,8,4,3,0.834,0.554,0.281,Green Room
+13,8,4,4,1.39,0.404,0.986,High Wastage Room
+13,8,4,5,0.413,0.59,0,Green Room
+13,8,4,6,0.109,0.569,0,Green Room
+13,8,4,7,0.115,0.348,0,Green Room
+13,8,4,8,1.481,0.21,1.271,High Wastage Room
+13,8,4,9,0.057,0.592,0,Green Room
+13,8,4,10,1.226,0.304,0.922,High Wastage Room
+13,8,4,11,0.189,0.223,0,Green Room
+13,8,4,12,1,0.243,0.756,Medium Wastage Room
+13,8,4,13,0.946,0.219,0.727,Medium Wastage Room
+13,8,4,14,0.221,0.221,0,Green Room
+13,8,4,15,0.165,0.592,0,Green Room
+13,8,4,16,0.131,0.453,0,Green Room
+13,8,4,17,1.164,0.383,0.781,Medium Wastage Room
+13,8,4,18,0.728,0.484,0.244,Green Room
+13,8,4,19,1.02,0.207,0.813,High Wastage Room
+13,8,4,20,0.476,0.522,0,Green Room
+13,8,4,21,0.575,0.543,0.032,Green Room
+13,8,4,22,1.442,0.378,1.064,High Wastage Room
+13,8,4,23,0.063,0.256,0,Green Room
+13,8,5,0,1.037,0.291,0.747,Medium Wastage Room
+13,8,5,1,0.233,0.246,0,Green Room
+13,8,5,2,0.157,0.336,0,Green Room
+13,8,5,3,0.249,0.279,0,Green Room
+13,8,5,4,0.058,0.233,0,Green Room
+13,8,5,5,0.075,0.33,0,Green Room
+13,8,5,6,0.472,0.588,0,Green Room
+13,8,5,7,0.203,0.472,0,Green Room
+13,8,5,8,0.148,0.505,0,Green Room
+13,8,5,9,0.179,0.401,0,Green Room
+13,8,5,10,0.2,0.473,0,Green Room
+13,8,5,11,0.589,0.394,0.194,Green Room
+13,8,5,12,1.435,0.531,0.904,High Wastage Room
+13,8,5,13,0.239,0.295,0,Green Room
+13,8,5,14,0.116,0.486,0,Green Room
+13,8,5,15,0.121,0.574,0,Green Room
+13,8,5,16,0.069,0.582,0,Green Room
+13,8,5,17,0.11,0.599,0,Green Room
+13,8,5,18,0.126,0.307,0,Green Room
+13,8,5,19,0.126,0.354,0,Green Room
+13,8,5,20,0.704,0.32,0.384,Medium Wastage Room
+13,8,5,21,0.231,0.274,0,Green Room
+13,8,5,22,0.189,0.274,0,Green Room
+13,8,5,23,0.181,0.568,0,Green Room
+13,8,6,0,1.165,0.308,0.856,High Wastage Room
+13,8,6,1,0.52,0.394,0.127,Green Room
+13,8,6,2,0.206,0.493,0,Green Room
+13,8,6,3,0.124,0.219,0,Green Room
+13,8,6,4,0.148,0.27,0,Green Room
+13,8,6,5,0.345,0.353,0,Green Room
+13,8,6,6,0.836,0.354,0.482,Medium Wastage Room
+13,8,6,7,1.451,0.58,0.872,High Wastage Room
+13,8,6,8,1.368,0.241,1.128,High Wastage Room
+13,8,6,9,0.535,0.511,0.024,Green Room
+13,8,6,10,0.117,0.234,0,Green Room
+13,8,6,11,0.102,0.33,0,Green Room
+13,8,6,12,0.223,0.417,0,Green Room
+13,8,6,13,0.141,0.505,0,Green Room
+13,8,6,14,0.139,0.28,0,Green Room
+13,8,6,15,0.803,0.28,0.523,Medium Wastage Room
+13,8,6,16,0.606,0.492,0.114,Green Room
+13,8,6,17,0.075,0.304,0,Green Room
+13,8,6,18,0.204,0.278,0,Green Room
+13,8,6,19,0.051,0.503,0,Green Room
+13,8,6,20,0.104,0.343,0,Green Room
+13,8,6,21,0.081,0.592,0,Green Room
+13,8,6,22,0.218,0.314,0,Green Room
+13,8,6,23,0.096,0.44,0,Green Room
+13,8,7,0,0.224,0.236,0,Green Room
+13,8,7,1,1.109,0.441,0.668,Medium Wastage Room
+13,8,7,2,0.06,0.325,0,Green Room
+13,8,7,3,0.079,0.535,0,Green Room
+13,8,7,4,0.068,0.341,0,Green Room
+13,8,7,5,1.602,0.34,1.262,High Wastage Room
+13,8,7,6,0.053,0.379,0,Green Room
+13,8,7,7,0.206,0.561,0,Green Room
+13,8,7,8,0.811,0.552,0.259,Green Room
+13,8,7,9,0.166,0.262,0,Green Room
+13,8,7,10,0.995,0.34,0.655,Medium Wastage Room
+13,8,7,11,0.066,0.394,0,Green Room
+13,8,7,12,0.8,0.262,0.538,Medium Wastage Room
+13,8,7,13,0.219,0.369,0,Green Room
+13,8,7,14,0.131,0.263,0,Green Room
+13,8,7,15,0.583,0.522,0.061,Green Room
+13,8,7,16,0.438,0.426,0.012,Green Room
+13,8,7,17,0.855,0.433,0.422,Medium Wastage Room
+13,8,7,18,0.223,0.577,0,Green Room
+13,8,7,19,0.248,0.31,0,Green Room
+13,8,7,20,0.058,0.537,0,Green Room
+13,8,7,21,0.17,0.386,0,Green Room
+13,8,7,22,0.18,0.22,0,Green Room
+13,8,7,23,0.113,0.313,0,Green Room
+14,8,1,0,0.644,0.249,0.396,Medium Wastage Room
+14,8,1,1,1.09,0.228,0.861,High Wastage Room
+14,8,1,2,0.242,0.397,0,Green Room
+14,8,1,3,0.237,0.245,0,Green Room
+14,8,1,4,0.107,0.482,0,Green Room
+14,8,1,5,1.529,0.369,1.161,High Wastage Room
+14,8,1,6,0.347,0.21,0.136,Green Room
+14,8,1,7,0.115,0.289,0,Green Room
+14,8,1,8,1.06,0.402,0.658,Medium Wastage Room
+14,8,1,9,0.078,0.248,0,Green Room
+14,8,1,10,1.055,0.243,0.811,High Wastage Room
+14,8,1,11,0.059,0.238,0,Green Room
+14,8,1,12,0.096,0.251,0,Green Room
+14,8,1,13,0.731,0.405,0.326,Medium Wastage Room
+14,8,1,14,0.121,0.499,0,Green Room
+14,8,1,15,1.287,0.314,0.973,High Wastage Room
+14,8,1,16,1.625,0.237,1.388,High Wastage Room
+14,8,1,17,0.083,0.29,0,Green Room
+14,8,1,18,0.188,0.444,0,Green Room
+14,8,1,19,0.179,0.355,0,Green Room
+14,8,1,20,0.06,0.47,0,Green Room
+14,8,1,21,0.229,0.489,0,Green Room
+14,8,1,22,1.4,0.294,1.106,High Wastage Room
+14,8,1,23,0.148,0.469,0,Green Room
+14,8,2,0,0.196,0.208,0,Green Room
+14,8,2,1,0.151,0.565,0,Green Room
+14,8,2,2,0.075,0.32,0,Green Room
+14,8,2,3,0.107,0.207,0,Green Room
+14,8,2,4,0.554,0.561,0,Green Room
+14,8,2,5,1.42,0.599,0.821,High Wastage Room
+14,8,2,6,1.363,0.444,0.919,High Wastage Room
+14,8,2,7,0.736,0.204,0.532,Medium Wastage Room
+14,8,2,8,0.706,0.293,0.413,Medium Wastage Room
+14,8,2,9,1.476,0.412,1.064,High Wastage Room
+14,8,2,10,0.433,0.355,0.078,Green Room
+14,8,2,11,0.2,0.466,0,Green Room
+14,8,2,12,0.239,0.525,0,Green Room
+14,8,2,13,0.123,0.442,0,Green Room
+14,8,2,14,0.203,0.524,0,Green Room
+14,8,2,15,0.155,0.255,0,Green Room
+14,8,2,16,0.819,0.543,0.276,Green Room
+14,8,2,17,0.552,0.439,0.113,Green Room
+14,8,2,18,0.14,0.454,0,Green Room
+14,8,2,19,0.129,0.453,0,Green Room
+14,8,2,20,1.18,0.596,0.585,Medium Wastage Room
+14,8,2,21,0.165,0.53,0,Green Room
+14,8,2,22,0.105,0.535,0,Green Room
+14,8,2,23,1.056,0.258,0.798,Medium Wastage Room
+14,8,3,0,0.066,0.392,0,Green Room
+14,8,3,1,0.176,0.353,0,Green Room
+14,8,3,2,0.427,0.318,0.109,Green Room
+14,8,3,3,0.191,0.55,0,Green Room
+14,8,3,4,0.173,0.415,0,Green Room
+14,8,3,5,0.194,0.475,0,Green Room
+14,8,3,6,0.245,0.528,0,Green Room
+14,8,3,7,1.526,0.574,0.952,High Wastage Room
+14,8,3,8,0.117,0.321,0,Green Room
+14,8,3,9,0.155,0.2,0,Green Room
+14,8,3,10,0.661,0.369,0.292,Green Room
+14,8,3,11,1.589,0.465,1.124,High Wastage Room
+14,8,3,12,1.627,0.447,1.18,High Wastage Room
+14,8,3,13,0.084,0.355,0,Green Room
+14,8,3,14,0.214,0.463,0,Green Room
+14,8,3,15,0.061,0.258,0,Green Room
+14,8,3,16,0.079,0.269,0,Green Room
+14,8,3,17,0.469,0.493,0,Green Room
+14,8,3,18,0.653,0.552,0.101,Green Room
+14,8,3,19,0.105,0.583,0,Green Room
+14,8,3,20,0.206,0.254,0,Green Room
+14,8,3,21,0.185,0.579,0,Green Room
+14,8,3,22,0.143,0.583,0,Green Room
+14,8,3,23,1.307,0.216,1.091,High Wastage Room
+14,8,4,0,0.151,0.316,0,Green Room
+14,8,4,1,1.573,0.478,1.095,High Wastage Room
+14,8,4,2,0.174,0.515,0,Green Room
+14,8,4,3,0.83,0.407,0.423,Medium Wastage Room
+14,8,4,4,0.061,0.372,0,Green Room
+14,8,4,5,0.15,0.325,0,Green Room
+14,8,4,6,0.529,0.444,0.085,Green Room
+14,8,4,7,0.935,0.371,0.564,Medium Wastage Room
+14,8,4,8,0.985,0.579,0.406,Medium Wastage Room
+14,8,4,9,1.319,0.343,0.976,High Wastage Room
+14,8,4,10,0.183,0.458,0,Green Room
+14,8,4,11,0.097,0.332,0,Green Room
+14,8,4,12,1.257,0.348,0.909,High Wastage Room
+14,8,4,13,1.332,0.28,1.051,High Wastage Room
+14,8,4,14,0.165,0.385,0,Green Room
+14,8,4,15,1.498,0.467,1.03,High Wastage Room
+14,8,4,16,0.091,0.396,0,Green Room
+14,8,4,17,0.148,0.571,0,Green Room
+14,8,4,18,1.103,0.493,0.61,Medium Wastage Room
+14,8,4,19,0.214,0.386,0,Green Room
+14,8,4,20,0.415,0.284,0.131,Green Room
+14,8,4,21,1.64,0.318,1.322,High Wastage Room
+14,8,4,22,1.491,0.534,0.957,High Wastage Room
+14,8,4,23,0.277,0.458,0,Green Room
+14,8,5,0,0.093,0.481,0,Green Room
+14,8,5,1,0.133,0.541,0,Green Room
+14,8,5,2,0.41,0.489,0,Green Room
+14,8,5,3,1.041,0.208,0.832,High Wastage Room
+14,8,5,4,1.021,0.573,0.448,Medium Wastage Room
+14,8,5,5,0.939,0.484,0.455,Medium Wastage Room
+14,8,5,6,0.058,0.568,0,Green Room
+14,8,5,7,0.105,0.272,0,Green Room
+14,8,5,8,0.053,0.45,0,Green Room
+14,8,5,9,0.711,0.465,0.245,Green Room
+14,8,5,10,1.591,0.374,1.217,High Wastage Room
+14,8,5,11,0.106,0.496,0,Green Room
+14,8,5,12,0.193,0.481,0,Green Room
+14,8,5,13,0.079,0.212,0,Green Room
+14,8,5,14,0.074,0.282,0,Green Room
+14,8,5,15,0.152,0.562,0,Green Room
+14,8,5,16,0.157,0.419,0,Green Room
+14,8,5,17,0.229,0.3,0,Green Room
+14,8,5,18,1.624,0.353,1.271,High Wastage Room
+14,8,5,19,0.709,0.303,0.406,Medium Wastage Room
+14,8,5,20,1.258,0.456,0.802,High Wastage Room
+14,8,5,21,0.203,0.464,0,Green Room
+14,8,5,22,1.362,0.536,0.826,High Wastage Room
+14,8,5,23,0.067,0.251,0,Green Room
+14,8,6,0,1.546,0.495,1.051,High Wastage Room
+14,8,6,1,1.053,0.496,0.557,Medium Wastage Room
+14,8,6,2,1.574,0.37,1.204,High Wastage Room
+14,8,6,3,0.18,0.51,0,Green Room
+14,8,6,4,0.06,0.22,0,Green Room
+14,8,6,5,1.164,0.477,0.687,Medium Wastage Room
+14,8,6,6,0.086,0.309,0,Green Room
+14,8,6,7,0.693,0.475,0.217,Green Room
+14,8,6,8,0.139,0.59,0,Green Room
+14,8,6,9,0.1,0.574,0,Green Room
+14,8,6,10,1.462,0.347,1.116,High Wastage Room
+14,8,6,11,1.218,0.444,0.773,Medium Wastage Room
+14,8,6,12,0.117,0.546,0,Green Room
+14,8,6,13,0.213,0.304,0,Green Room
+14,8,6,14,1.103,0.56,0.543,Medium Wastage Room
+14,8,6,15,0.2,0.561,0,Green Room
+14,8,6,16,0.15,0.541,0,Green Room
+14,8,6,17,0.139,0.366,0,Green Room
+14,8,6,18,0.09,0.457,0,Green Room
+14,8,6,19,0.208,0.573,0,Green Room
+14,8,6,20,0.173,0.314,0,Green Room
+14,8,6,21,0.215,0.263,0,Green Room
+14,8,6,22,0.24,0.467,0,Green Room
+14,8,6,23,0.104,0.319,0,Green Room
+14,8,7,0,0.196,0.385,0,Green Room
+14,8,7,1,0.098,0.305,0,Green Room
+14,8,7,2,0.159,0.545,0,Green Room
+14,8,7,3,1.054,0.552,0.502,Medium Wastage Room
+14,8,7,4,0.241,0.227,0.014,Green Room
+14,8,7,5,0.196,0.519,0,Green Room
+14,8,7,6,0.099,0.575,0,Green Room
+14,8,7,7,0.069,0.276,0,Green Room
+14,8,7,8,0.077,0.433,0,Green Room
+14,8,7,9,1.53,0.587,0.943,High Wastage Room
+14,8,7,10,0.109,0.576,0,Green Room
+14,8,7,11,0.218,0.325,0,Green Room
+14,8,7,12,0.138,0.385,0,Green Room
+14,8,7,13,0.135,0.243,0,Green Room
+14,8,7,14,1.416,0.423,0.993,High Wastage Room
+14,8,7,15,0.072,0.358,0,Green Room
+14,8,7,16,0.235,0.355,0,Green Room
+14,8,7,17,0.227,0.233,0,Green Room
+14,8,7,18,0.201,0.527,0,Green Room
+14,8,7,19,0.079,0.382,0,Green Room
+14,8,7,20,0.144,0.55,0,Green Room
+14,8,7,21,0.083,0.505,0,Green Room
+14,8,7,22,0.139,0.495,0,Green Room
+14,8,7,23,0.168,0.586,0,Green Room
+15,8,1,0,1.119,0.485,0.634,Medium Wastage Room
+15,8,1,1,1.02,0.512,0.508,Medium Wastage Room
+15,8,1,2,0.14,0.585,0,Green Room
+15,8,1,3,0.051,0.402,0,Green Room
+15,8,1,4,1.445,0.491,0.954,High Wastage Room
+15,8,1,5,0.241,0.515,0,Green Room
+15,8,1,6,0.056,0.317,0,Green Room
+15,8,1,7,0.233,0.271,0,Green Room
+15,8,1,8,1.015,0.288,0.727,Medium Wastage Room
+15,8,1,9,0.45,0.232,0.218,Green Room
+15,8,1,10,0.993,0.335,0.658,Medium Wastage Room
+15,8,1,11,0.081,0.342,0,Green Room
+15,8,1,12,0.242,0.423,0,Green Room
+15,8,1,13,0.128,0.27,0,Green Room
+15,8,1,14,0.97,0.447,0.523,Medium Wastage Room
+15,8,1,15,0.182,0.461,0,Green Room
+15,8,1,16,0.139,0.452,0,Green Room
+15,8,1,17,1.441,0.246,1.195,High Wastage Room
+15,8,1,18,0.096,0.367,0,Green Room
+15,8,1,19,0.081,0.32,0,Green Room
+15,8,1,20,0.383,0.241,0.141,Green Room
+15,8,1,21,0.881,0.321,0.56,Medium Wastage Room
+15,8,1,22,0.126,0.398,0,Green Room
+15,8,1,23,0.943,0.26,0.682,Medium Wastage Room
+15,8,2,0,0.338,0.38,0,Green Room
+15,8,2,1,1.368,0.595,0.773,Medium Wastage Room
+15,8,2,2,1.014,0.411,0.603,Medium Wastage Room
+15,8,2,3,1.174,0.57,0.605,Medium Wastage Room
+15,8,2,4,0.178,0.507,0,Green Room
+15,8,2,5,0.109,0.384,0,Green Room
+15,8,2,6,0.105,0.477,0,Green Room
+15,8,2,7,0.226,0.34,0,Green Room
+15,8,2,8,0.149,0.465,0,Green Room
+15,8,2,9,0.061,0.504,0,Green Room
+15,8,2,10,0.102,0.315,0,Green Room
+15,8,2,11,0.249,0.411,0,Green Room
+15,8,2,12,0.113,0.403,0,Green Room
+15,8,2,13,0.379,0.573,0,Green Room
+15,8,2,14,0.093,0.25,0,Green Room
+15,8,2,15,0.895,0.29,0.605,Medium Wastage Room
+15,8,2,16,0.824,0.284,0.54,Medium Wastage Room
+15,8,2,17,0.728,0.37,0.358,Medium Wastage Room
+15,8,2,18,1.013,0.221,0.793,Medium Wastage Room
+15,8,2,19,0.237,0.513,0,Green Room
+15,8,2,20,0.073,0.438,0,Green Room
+15,8,2,21,0.134,0.554,0,Green Room
+15,8,2,22,1.129,0.423,0.706,Medium Wastage Room
+15,8,2,23,0.148,0.433,0,Green Room
+15,8,3,0,0.126,0.389,0,Green Room
+15,8,3,1,1.339,0.401,0.938,High Wastage Room
+15,8,3,2,0.155,0.484,0,Green Room
+15,8,3,3,0.182,0.23,0,Green Room
+15,8,3,4,0.165,0.262,0,Green Room
+15,8,3,5,0.116,0.419,0,Green Room
+15,8,3,6,0.224,0.269,0,Green Room
+15,8,3,7,0.125,0.315,0,Green Room
+15,8,3,8,0.154,0.372,0,Green Room
+15,8,3,9,1.411,0.488,0.923,High Wastage Room
+15,8,3,10,0.073,0.353,0,Green Room
+15,8,3,11,0.146,0.203,0,Green Room
+15,8,3,12,0.15,0.462,0,Green Room
+15,8,3,13,1.404,0.48,0.925,High Wastage Room
+15,8,3,14,0.188,0.256,0,Green Room
+15,8,3,15,0.886,0.436,0.451,Medium Wastage Room
+15,8,3,16,0.074,0.228,0,Green Room
+15,8,3,17,1.41,0.234,1.176,High Wastage Room
+15,8,3,18,0.177,0.341,0,Green Room
+15,8,3,19,0.687,0.261,0.426,Medium Wastage Room
+15,8,3,20,0.1,0.4,0,Green Room
+15,8,3,21,0.973,0.323,0.651,Medium Wastage Room
+15,8,3,22,1.519,0.59,0.929,High Wastage Room
+15,8,3,23,0.8,0.24,0.561,Medium Wastage Room
+15,8,4,0,0.152,0.251,0,Green Room
+15,8,4,1,1.513,0.377,1.136,High Wastage Room
+15,8,4,2,0.068,0.204,0,Green Room
+15,8,4,3,0.146,0.537,0,Green Room
+15,8,4,4,0.717,0.467,0.251,Green Room
+15,8,4,5,0.583,0.243,0.339,Medium Wastage Room
+15,8,4,6,1.34,0.414,0.926,High Wastage Room
+15,8,4,7,0.766,0.555,0.212,Green Room
+15,8,4,8,0.087,0.571,0,Green Room
+15,8,4,9,0.188,0.322,0,Green Room
+15,8,4,10,0.181,0.454,0,Green Room
+15,8,4,11,0.154,0.296,0,Green Room
+15,8,4,12,0.074,0.328,0,Green Room
+15,8,4,13,0.169,0.513,0,Green Room
+15,8,4,14,1.159,0.501,0.658,Medium Wastage Room
+15,8,4,15,0.673,0.419,0.254,Green Room
+15,8,4,16,1.462,0.402,1.06,High Wastage Room
+15,8,4,17,0.126,0.328,0,Green Room
+15,8,4,18,1.097,0.494,0.603,Medium Wastage Room
+15,8,4,19,0.056,0.36,0,Green Room
+15,8,4,20,0.171,0.336,0,Green Room
+15,8,4,21,0.196,0.218,0,Green Room
+15,8,4,22,0.489,0.481,0.008,Green Room
+15,8,4,23,0.233,0.442,0,Green Room
+15,8,5,0,1.325,0.206,1.119,High Wastage Room
+15,8,5,1,0.098,0.5,0,Green Room
+15,8,5,2,0.197,0.479,0,Green Room
+15,8,5,3,0.178,0.298,0,Green Room
+15,8,5,4,0.054,0.306,0,Green Room
+15,8,5,5,0.193,0.297,0,Green Room
+15,8,5,6,0.063,0.279,0,Green Room
+15,8,5,7,0.68,0.428,0.252,Green Room
+15,8,5,8,1.029,0.291,0.738,Medium Wastage Room
+15,8,5,9,0.247,0.385,0,Green Room
+15,8,5,10,0.222,0.206,0.016,Green Room
+15,8,5,11,0.069,0.27,0,Green Room
+15,8,5,12,0.935,0.208,0.727,Medium Wastage Room
+15,8,5,13,0.227,0.422,0,Green Room
+15,8,5,14,1.621,0.52,1.101,High Wastage Room
+15,8,5,15,0.898,0.465,0.433,Medium Wastage Room
+15,8,5,16,1.411,0.3,1.111,High Wastage Room
+15,8,5,17,0.194,0.52,0,Green Room
+15,8,5,18,0.09,0.411,0,Green Room
+15,8,5,19,1.257,0.505,0.753,Medium Wastage Room
+15,8,5,20,0.235,0.389,0,Green Room
+15,8,5,21,0.417,0.47,0,Green Room
+15,8,5,22,0.096,0.222,0,Green Room
+15,8,5,23,1.444,0.336,1.108,High Wastage Room
+15,8,6,0,0.067,0.243,0,Green Room
+15,8,6,1,0.229,0.404,0,Green Room
+15,8,6,2,0.167,0.209,0,Green Room
+15,8,6,3,0.188,0.393,0,Green Room
+15,8,6,4,0.166,0.466,0,Green Room
+15,8,6,5,0.207,0.299,0,Green Room
+15,8,6,6,0.22,0.243,0,Green Room
+15,8,6,7,0.171,0.324,0,Green Room
+15,8,6,8,0.206,0.457,0,Green Room
+15,8,6,9,0.174,0.225,0,Green Room
+15,8,6,10,0.524,0.327,0.197,Green Room
+15,8,6,11,0.181,0.504,0,Green Room
+15,8,6,12,0.091,0.309,0,Green Room
+15,8,6,13,0.212,0.373,0,Green Room
+15,8,6,14,0.213,0.599,0,Green Room
+15,8,6,15,1.109,0.491,0.618,Medium Wastage Room
+15,8,6,16,0.178,0.414,0,Green Room
+15,8,6,17,0.061,0.445,0,Green Room
+15,8,6,18,0.85,0.422,0.428,Medium Wastage Room
+15,8,6,19,1.533,0.395,1.138,High Wastage Room
+15,8,6,20,0.066,0.221,0,Green Room
+15,8,6,21,0.136,0.562,0,Green Room
+15,8,6,22,0.188,0.436,0,Green Room
+15,8,6,23,0.854,0.557,0.296,Green Room
+15,8,7,0,0.122,0.35,0,Green Room
+15,8,7,1,0.068,0.589,0,Green Room
+15,8,7,2,0.889,0.254,0.634,Medium Wastage Room
+15,8,7,3,0.092,0.548,0,Green Room
+15,8,7,4,0.06,0.475,0,Green Room
+15,8,7,5,0.224,0.307,0,Green Room
+15,8,7,6,0.15,0.407,0,Green Room
+15,8,7,7,0.122,0.244,0,Green Room
+15,8,7,8,0.198,0.339,0,Green Room
+15,8,7,9,0.161,0.529,0,Green Room
+15,8,7,10,0.247,0.497,0,Green Room
+15,8,7,11,0.148,0.214,0,Green Room
+15,8,7,12,0.632,0.439,0.192,Green Room
+15,8,7,13,0.184,0.465,0,Green Room
+15,8,7,14,0.815,0.463,0.352,Medium Wastage Room
+15,8,7,15,0.126,0.307,0,Green Room
+15,8,7,16,0.212,0.277,0,Green Room
+15,8,7,17,0.376,0.219,0.156,Green Room
+15,8,7,18,0.221,0.3,0,Green Room
+15,8,7,19,0.051,0.572,0,Green Room
+15,8,7,20,1.43,0.497,0.933,High Wastage Room
+15,8,7,21,1.562,0.203,1.359,High Wastage Room
+15,8,7,22,0.058,0.412,0,Green Room
+15,8,7,23,0.45,0.542,0,Green Room
