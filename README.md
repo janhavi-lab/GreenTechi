@@ -1,18 +1,26 @@
 # GreenTechi
-UrjaMitra is a smart app designed to reduce electricity wastage in hostels by monitoring and analyzing room-wise power consumption.
+⚡ UrjaMitra – Smart Hostel Energy Monitor
 
- What data we track (dataset columns):
+Objective:
+UrjaMitra is a smart platform designed to reduce electricity wastage in hostels by tracking and analyzing room-wise appliance-level consumption.
 
-Room_no → identifies each hostel room.
+🔹 What data we track (Dataset Columns):
 
-Month / Day / Hour → tells us when electricity is being used (time patterns).
+Room → Identifies each hostel room.
 
-Consumption (kWh) → actual electricity used by the room.
+Day → Weekday name (Sun–Sat) to capture daily usage patterns.
 
-Average Consumption (kWh) → the expected normal usage benchmark.
+Time → Hour of the day (0–23 or 1–24) to study hourly variations.
 
-Wastage (kWh) → extra electricity used beyond the average (our target output).
+Light_W → Power consumed by lights in watts.
 
+Fan_W → Power consumed by ceiling/table fans in watts.
+
+Laptop_W → Power consumed by laptops in watts (study/entertainment usage).
+
+Heater_W → Power consumed by heaters in watts (comfort usage).
+
+Total_W → Total energy consumption of the room (sum of all appliances).
 
 
 Impact on society:
