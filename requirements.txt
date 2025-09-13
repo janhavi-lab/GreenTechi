@@ -1,0 +1,25 @@
+
+torch
+
+pandas
+
+scipy
+
+
+# Core data handling
+pandas
+numpy
+
+# Visualization
+matplotlib
+plotly
+
+# Dashboard framework
+streamlit
+
+# Machine Learning / Deep Learning (optional but useful)
+scikit-learn
+tensorflow
+
+# Utility
+openpyxl   # for Excel dataset support
